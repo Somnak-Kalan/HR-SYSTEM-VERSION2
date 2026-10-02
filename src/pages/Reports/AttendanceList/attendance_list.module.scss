@@ -1,0 +1,112 @@
+.highlightRow {
+  background-color: #00a300 !important;
+}
+.redText {
+  color: red;
+}
+.blueText {
+  color: #0000ff;
+}
+.yellowText {
+  color: #ffbf00;
+}
+
+.sundayRow {
+  > td {
+    background-color: #ffff00 !important;
+    color: #000 !important;
+  }
+
+  &:hover > td {
+    background-color: #ffff00 !important;
+  }
+}
+
+:global(.dark) .sundayRow {
+  > td {
+    background-color: #665c00 !important;
+    color: #fff7a8 !important;
+  }
+
+  &:hover > td {
+    background-color: #756a00 !important;
+  }
+}
+.noHover:hover {
+  background-color: none;
+}
+.whiteText {
+  color: white;
+}
+.blackText {
+  color: black;
+}
+
+////
+.searchSelectBox {
+  width: 100%;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  border: 1px solid #d9d9d9;
+  border-radius: 6px;
+  background: transparent;
+
+  &:focus,
+  &:focus-within,
+  &:hover {
+    border-color: #d9d9d9;
+    outline: none;
+    box-shadow: none;
+  }
+}
+
+.searchSelectIcon {
+  flex-shrink: 0;
+  padding-left: 12px;
+  font-size: 16px;
+  color: #1890ff;
+}
+
+.searchFormItem {
+  width: 100%;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.searchSelect {
+  width: 100%;
+
+  &:global(.ant-select-focused),
+  &:global(.ant-select-open),
+  &:focus,
+  &:focus-within {
+    outline: none !important;
+    box-shadow: none !important;
+  }
+
+  :global(.ant-select-selector) {
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+    background: transparent !important;
+  }
+
+  &:global(.ant-select-focused) :global(.ant-select-selector),
+  &:global(.ant-select-open) :global(.ant-select-selector),
+  &:hover :global(.ant-select-selector) {
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+  }
+
+  :global(.ant-select-selection-search-input) {
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+  }
+}
+///
+///
+///

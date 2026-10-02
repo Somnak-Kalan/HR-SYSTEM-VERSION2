@@ -1,0 +1,5158 @@
+[
+  {
+    "code_id": "12270YL",
+    "quantity": 3,
+    "cbm_m3": "0.221",
+    "weight": "58.00",
+    "sub_data": [
+      {
+        "name": "12270YL",
+        "commodity": "画架",
+        "code_id": "12270YL",
+        "length": 1.2,
+        "width": 0.35,
+        "height": 0.175,
+        "quantity": 3,
+        "cbm_m3": 0.221,
+        "weight": 58,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "韵达：903571113",
+        "in_date": "2023-11-01T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "24859KHN",
+    "quantity": 3,
+    "cbm_m3": "0.063",
+    "weight": "7.30",
+    "sub_data": [
+      {
+        "name": "24859KHN",
+        "commodity": "日用品",
+        "code_id": "24859KHN",
+        "length": 0.34,
+        "width": 0.24,
+        "height": 0.18,
+        "quantity": 1,
+        "cbm_m3": 0.015,
+        "weight": 2,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "申通：773251980369724",
+        "in_date": "2023-11-01T17:00:00.000Z"
+      },
+      {
+        "name": "24859KHN",
+        "commodity": "饰品",
+        "code_id": "24859KHN",
+        "length": 0.51,
+        "width": 0.31,
+        "height": 0.21,
+        "quantity": 1,
+        "cbm_m3": 0.033,
+        "weight": 3.5,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "申通：773252839881022",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "24859KHN",
+        "commodity": "饰品",
+        "code_id": "24859KHN",
+        "length": 0.35,
+        "width": 0.23,
+        "height": 0.19,
+        "quantity": 1,
+        "cbm_m3": 0.015,
+        "weight": 1.8,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "中通：78738668804275",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "25252CHP",
+    "quantity": 1,
+    "cbm_m3": "0.057",
+    "weight": "12.00",
+    "sub_data": [
+      {
+        "name": "25252CHP",
+        "commodity": "五金件",
+        "code_id": "25252CHP",
+        "length": 0.47,
+        "width": 0.42,
+        "height": 0.29,
+        "quantity": 1,
+        "cbm_m3": 0.057,
+        "weight": 12,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "联昊通：800672080973",
+        "in_date": "2023-11-01T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "LL1103",
+    "quantity": 3,
+    "cbm_m3": "0.141",
+    "weight": "19.20",
+    "sub_data": [
+      {
+        "name": "LL1103",
+        "commodity": "杯架",
+        "code_id": "LL1103",
+        "length": 0.4,
+        "width": 0.38,
+        "height": 0.26,
+        "quantity": 1,
+        "cbm_m3": 0.04,
+        "weight": 8,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "极兔：JT3051600643973",
+        "in_date": "2023-11-01T17:00:00.000Z"
+      },
+      {
+        "name": "LL1103",
+        "commodity": "灯具",
+        "code_id": "LL1103",
+        "length": 0.41,
+        "width": 0.24,
+        "height": 0.28,
+        "quantity": 1,
+        "cbm_m3": 0.028,
+        "weight": 1.7,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "德邦：DPK364255704500",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "LL1103",
+        "commodity": "灯具",
+        "code_id": "LL1103",
+        "length": 0.54,
+        "width": 0.45,
+        "height": 0.3,
+        "quantity": 1,
+        "cbm_m3": 0.073,
+        "weight": 9.5,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "圆通：YT7424099814885",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "28517KSK",
+    "quantity": 1,
+    "cbm_m3": "0.054",
+    "weight": "6.50",
+    "sub_data": [
+      {
+        "name": "28517KSK",
+        "commodity": "日用品",
+        "code_id": "28517KSK",
+        "length": 0.53,
+        "width": 0.3,
+        "height": 0.34,
+        "quantity": 1,
+        "cbm_m3": 0.054,
+        "weight": 6.5,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "极兔：JT0009807335958",
+        "in_date": "2023-11-01T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "16567PECH",
+    "quantity": 1,
+    "cbm_m3": "0.016",
+    "weight": "0.70",
+    "sub_data": [
+      {
+        "name": "16567PECH",
+        "commodity": "摆件",
+        "code_id": "16567PECH",
+        "length": 0.3,
+        "width": 0.27,
+        "height": 0.2,
+        "quantity": 1,
+        "cbm_m3": 0.016,
+        "weight": 0.7,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "中通：78736915167746",
+        "in_date": "2023-11-01T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "LL1407",
+    "quantity": 3,
+    "cbm_m3": "0.098",
+    "weight": "47.00",
+    "sub_data": [
+      {
+        "name": "LL1407",
+        "commodity": "奶茶",
+        "code_id": "LL1407",
+        "length": 0.36,
+        "width": 0.27,
+        "height": 0.26,
+        "quantity": 2,
+        "cbm_m3": 0.051,
+        "weight": 43,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "安能：910000054548",
+        "in_date": "2023-11-01T17:00:00.000Z"
+      },
+      {
+        "name": "LL1407",
+        "commodity": "鞋柜",
+        "code_id": "LL1407",
+        "length": 0.43,
+        "width": 0.38,
+        "height": 0.29,
+        "quantity": 1,
+        "cbm_m3": 0.047,
+        "weight": 4,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "德邦：DPK300887414021",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "3695KCR",
+    "quantity": 2,
+    "cbm_m3": "0.052",
+    "weight": "4.50",
+    "sub_data": [
+      {
+        "name": "3695KCR",
+        "commodity": "台球用品",
+        "code_id": "3695KCR",
+        "length": 0.73,
+        "width": 0.53,
+        "height": 0.08,
+        "quantity": 1,
+        "cbm_m3": 0.031,
+        "weight": 2.5,
+        "other_expense": "",
+        "remark": "​共2件.0.043方.重量5KG.4号出1件.6号出1件",
+        "tracking_number": "韵达：433528946290856.433528389040434",
+        "in_date": "2023-11-01T17:00:00.000Z"
+      },
+      {
+        "name": "3695KCR",
+        "commodity": "灯箱",
+        "code_id": "3695KCR",
+        "length": 0.66,
+        "width": 0.35,
+        "height": 0.09,
+        "quantity": 1,
+        "cbm_m3": 0.021,
+        "weight": 2,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "韵达：433530053986201",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "3944MCS",
+    "quantity": 1,
+    "cbm_m3": "0.016",
+    "weight": "3.10",
+    "sub_data": [
+      {
+        "name": "3944MCS",
+        "commodity": "鞋子",
+        "code_id": "3944MCS",
+        "length": 0.42,
+        "width": 0.31,
+        "height": 0.12,
+        "quantity": 1,
+        "cbm_m3": 0.016,
+        "weight": 3.1,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "申通：773251674277228",
+        "in_date": "2023-11-01T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "22092RKA",
+    "quantity": 1,
+    "cbm_m3": "0.016",
+    "weight": "4.00",
+    "sub_data": [
+      {
+        "name": "22092RKA",
+        "commodity": "衣服",
+        "code_id": "22092RKA",
+        "length": 0.37,
+        "width": 0.3,
+        "height": 0.14,
+        "quantity": 1,
+        "cbm_m3": 0.016,
+        "weight": 4,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "申通：773252230403105",
+        "in_date": "2023-11-01T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "23943DER",
+    "quantity": 3,
+    "cbm_m3": "0.094",
+    "weight": "19.70",
+    "sub_data": [
+      {
+        "name": "23943DER",
+        "commodity": "饰品",
+        "code_id": "23943DER",
+        "length": 0.42,
+        "width": 0.32,
+        "height": 0.29,
+        "quantity": 1,
+        "cbm_m3": 0.039,
+        "weight": 7,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "圆通：YT7424014533161",
+        "in_date": "2023-11-01T17:00:00.000Z"
+      },
+      {
+        "name": "23943DER",
+        "commodity": "电钻",
+        "code_id": "23943DER",
+        "length": 0.35,
+        "width": 0.23,
+        "height": 0.27,
+        "quantity": 1,
+        "cbm_m3": 0.022,
+        "weight": 4.7,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "圆通：YT7423918887693",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "23943DER",
+        "commodity": "球台",
+        "code_id": "23943DER",
+        "length": 0.78,
+        "width": 0.39,
+        "height": 0.11,
+        "quantity": 1,
+        "cbm_m3": 0.033,
+        "weight": 8,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "圆通：YT8934963040586",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "2177LF",
+    "quantity": 1,
+    "cbm_m3": "0.050",
+    "weight": "19.00",
+    "sub_data": [
+      {
+        "name": "2177LF",
+        "commodity": "纸本",
+        "code_id": "2177LF",
+        "length": 0.39,
+        "width": 0.39,
+        "height": 0.33,
+        "quantity": 1,
+        "cbm_m3": 0.05,
+        "weight": 19,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "圆通：YT7423404903072",
+        "in_date": "2023-11-01T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "21085LAG",
+    "quantity": 2,
+    "cbm_m3": "0.024",
+    "weight": "2.50",
+    "sub_data": [
+      {
+        "name": "21085LAG",
+        "commodity": "包",
+        "code_id": "21085LAG",
+        "length": 0.41,
+        "width": 0.32,
+        "height": 0.09,
+        "quantity": 2,
+        "cbm_m3": 0.024,
+        "weight": 2.5,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "中通：78736909100812.78736947170780",
+        "in_date": "2023-11-01T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "26842KHA",
+    "quantity": 1,
+    "cbm_m3": "0.016",
+    "weight": "3.50",
+    "sub_data": [
+      {
+        "name": "26842KHA",
+        "commodity": "五金件",
+        "code_id": "26842KHA",
+        "length": 0.29,
+        "width": 0.2,
+        "height": 0.27,
+        "quantity": 1,
+        "cbm_m3": 0.016,
+        "weight": 3.5,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "中通：78737943686732",
+        "in_date": "2023-11-01T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "12576CML",
+    "quantity": 4,
+    "cbm_m3": "0.120",
+    "weight": "13.60",
+    "sub_data": [
+      {
+        "name": "12576CML",
+        "commodity": "饰品",
+        "code_id": "12576CML",
+        "length": 0.5,
+        "width": 0.27,
+        "height": 0.48,
+        "quantity": 1,
+        "cbm_m3": 0.065,
+        "weight": 3.5,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "德邦：DPK300887046688",
+        "in_date": "2023-11-02T17:00:00.000Z"
+      },
+      {
+        "name": "12576CML",
+        "commodity": "灯具",
+        "code_id": "12576CML",
+        "length": 0.31,
+        "width": 0.21,
+        "height": 0.17,
+        "quantity": 1,
+        "cbm_m3": 0.011,
+        "weight": 1.5,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "德邦：DPK211941024252",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "12576CML",
+        "commodity": "饰品",
+        "code_id": "12576CML",
+        "length": 0.44,
+        "width": 0.27,
+        "height": 0.22,
+        "quantity": 1,
+        "cbm_m3": 0.026,
+        "weight": 4,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "圆通：YT7424520399783",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "12576CML",
+        "commodity": "袜子",
+        "code_id": "12576CML",
+        "length": 0.4,
+        "width": 0.28,
+        "height": 0.16,
+        "quantity": 1,
+        "cbm_m3": 0.018,
+        "weight": 4.6,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "圆通：YT7424482811264",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "20112YTV",
+    "quantity": 1,
+    "cbm_m3": "0.023",
+    "weight": "4.00",
+    "sub_data": [
+      {
+        "name": "20112YTV",
+        "commodity": "衣服",
+        "code_id": "20112YTV",
+        "length": 0.36,
+        "width": 0.29,
+        "height": 0.22,
+        "quantity": 1,
+        "cbm_m3": 0.023,
+        "weight": 4,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "中通：78738207291936",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "29901CVN",
+    "quantity": 1,
+    "cbm_m3": "0.022",
+    "weight": "4.50",
+    "sub_data": [
+      {
+        "name": "29901CVN",
+        "commodity": "折叠桌",
+        "code_id": "29901CVN",
+        "length": 0.59,
+        "width": 0.23,
+        "height": 0.16,
+        "quantity": 1,
+        "cbm_m3": 0.022,
+        "weight": 4.5,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "韵达：433529049958118",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "3424TSC",
+    "quantity": 4,
+    "cbm_m3": "1.619",
+    "weight": "148.00",
+    "sub_data": [
+      {
+        "name": "3424TSC",
+        "commodity": "电视机",
+        "code_id": "3424TSC",
+        "length": 1.9,
+        "width": 1.13,
+        "height": 0.27,
+        "quantity": 1,
+        "cbm_m3": 0.58,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "牌子：小米",
+        "tracking_number": "跨越：KY4000227512257",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "3424TSC",
+        "commodity": "电视机",
+        "code_id": "3424TSC",
+        "length": 2.11,
+        "width": 1.3,
+        "height": 0.29,
+        "quantity": 1,
+        "cbm_m3": 0.795,
+        "weight": 135,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "跨越：KY4000227512257",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "3424TSC",
+        "commodity": "椅子",
+        "code_id": "3424TSC",
+        "length": 0.66,
+        "width": 0.43,
+        "height": 0.43,
+        "quantity": 2,
+        "cbm_m3": 0.244,
+        "weight": 13,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "申通：773251699562803.773251699796467",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "29659MZA",
+    "quantity": 4,
+    "cbm_m3": "0.185",
+    "weight": "11.80",
+    "sub_data": [
+      {
+        "name": "29659MZA",
+        "commodity": "底座",
+        "code_id": "29659MZA",
+        "length": 0.43,
+        "width": 0.32,
+        "height": 0.11,
+        "quantity": 1,
+        "cbm_m3": 0.015,
+        "weight": 3.2,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "圆通：YT7424296487480",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "29659MZA",
+        "commodity": "枕头",
+        "code_id": "29659MZA",
+        "length": 0.7,
+        "width": 0.65,
+        "height": 0.3,
+        "quantity": 1,
+        "cbm_m3": 0.137,
+        "weight": 4.5,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "申通：773252373477171",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "29659MZA",
+        "commodity": "凉席",
+        "code_id": "29659MZA",
+        "length": 0.51,
+        "width": 0.35,
+        "height": 0.11,
+        "quantity": 1,
+        "cbm_m3": 0.02,
+        "weight": 2.5,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "申通：773252644695841",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "29659MZA",
+        "commodity": "椅子",
+        "code_id": "29659MZA",
+        "length": 0.5,
+        "width": 0.5,
+        "height": 0.05,
+        "quantity": 1,
+        "cbm_m3": 0.013,
+        "weight": 1.6,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "韵达：433532704173633",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "LL0604",
+    "quantity": 1,
+    "cbm_m3": "0.016",
+    "weight": "2.60",
+    "sub_data": [
+      {
+        "name": "LL0604",
+        "commodity": "鞋子",
+        "code_id": "LL0604",
+        "length": 0.3,
+        "width": 0.24,
+        "height": 0.22,
+        "quantity": 1,
+        "cbm_m3": 0.016,
+        "weight": 2.6,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "申通：773252420017770",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "22976CVN",
+    "quantity": 1,
+    "cbm_m3": "0.013",
+    "weight": "1.00",
+    "sub_data": [
+      {
+        "name": "22976CVN",
+        "commodity": "灯具",
+        "code_id": "22976CVN",
+        "length": 0.35,
+        "width": 0.18,
+        "height": 0.2,
+        "quantity": 1,
+        "cbm_m3": 0.013,
+        "weight": 1,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "圆通：YT7424443479993",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "24033MKR",
+    "quantity": 1,
+    "cbm_m3": "0.033",
+    "weight": "2.70",
+    "sub_data": [
+      {
+        "name": "24033MKR",
+        "commodity": "日用品",
+        "code_id": "24033MKR",
+        "length": 0.52,
+        "width": 0.35,
+        "height": 0.18,
+        "quantity": 1,
+        "cbm_m3": 0.033,
+        "weight": 2.7,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "圆通：YT7423948982070",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "28594CLN",
+    "quantity": 1,
+    "cbm_m3": "0.054",
+    "weight": "12.00",
+    "sub_data": [
+      {
+        "name": "28594CLN",
+        "commodity": "装饰品",
+        "code_id": "28594CLN",
+        "length": 0.5,
+        "width": 0.4,
+        "height": 0.27,
+        "quantity": 1,
+        "cbm_m3": 0.054,
+        "weight": 12,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "顺丰：SF1522646225314",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "30463TRY",
+    "quantity": 9,
+    "cbm_m3": "0.463",
+    "weight": "26.90",
+    "sub_data": [
+      {
+        "name": "30463TRY",
+        "commodity": "饰品",
+        "code_id": "30463TRY",
+        "length": 0.32,
+        "width": 0.23,
+        "height": 0.21,
+        "quantity": 1,
+        "cbm_m3": 0.015,
+        "weight": 1.5,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "韵达：433525744078727",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "30463TRY",
+        "commodity": "浴盆",
+        "code_id": "30463TRY",
+        "length": 0.85,
+        "width": 0.43,
+        "height": 0.11,
+        "quantity": 1,
+        "cbm_m3": 0.04,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "德邦：DPK364251272464.DPK364254263537.DPK300889701247",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "30463TRY",
+        "commodity": "浴盆",
+        "code_id": "30463TRY",
+        "length": 0.67,
+        "width": 0.48,
+        "height": 0.43,
+        "quantity": 1,
+        "cbm_m3": 0.138,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "德邦：DPK364251272464.DPK364254263537.DPK300889701247",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "30463TRY",
+        "commodity": "浴盆",
+        "code_id": "30463TRY",
+        "length": 1.51,
+        "width": 0.25,
+        "height": 0.25,
+        "quantity": 1,
+        "cbm_m3": 0.094,
+        "weight": 14,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "德邦：DPK364251272464.DPK364254263537.DPK300889701247",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "30463TRY",
+        "commodity": "饰品",
+        "code_id": "30463TRY",
+        "length": 0.42,
+        "width": 0.33,
+        "height": 0.13,
+        "quantity": 1,
+        "cbm_m3": 0.018,
+        "weight": 1.7,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "极兔：JT3051597164124",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "30463TRY",
+        "commodity": "脸盆",
+        "code_id": "30463TRY",
+        "length": 0.31,
+        "width": 0.31,
+        "height": 0.1,
+        "quantity": 1,
+        "cbm_m3": 0.01,
+        "weight": 1,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "邮政：9872800854110",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "30463TRY",
+        "commodity": "垫子",
+        "code_id": "30463TRY",
+        "length": 0.5,
+        "width": 0.4,
+        "height": 0.25,
+        "quantity": 1,
+        "cbm_m3": 0.05,
+        "weight": 2,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "中通：78738290661646",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "30463TRY",
+        "commodity": "牙刷",
+        "code_id": "30463TRY",
+        "length": 0.44,
+        "width": 0.43,
+        "height": 0.37,
+        "quantity": 1,
+        "cbm_m3": 0.07,
+        "weight": 4.5,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "韵达：433529481753037",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "30463TRY",
+        "commodity": "衣服",
+        "code_id": "30463TRY",
+        "length": 0.4,
+        "width": 0.33,
+        "height": 0.21,
+        "quantity": 1,
+        "cbm_m3": 0.028,
+        "weight": 2.2,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "中通：78738234794750",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "9010TKT",
+    "quantity": 1,
+    "cbm_m3": "0.015",
+    "weight": "6.00",
+    "sub_data": [
+      {
+        "name": "9010TKT",
+        "commodity": "塑料件",
+        "code_id": "9010TKT",
+        "length": 0.35,
+        "width": 0.21,
+        "height": 0.21,
+        "quantity": 1,
+        "cbm_m3": 0.015,
+        "weight": 6,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "平安达：100057156400",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "7094TSR",
+    "quantity": 1,
+    "cbm_m3": "0.042",
+    "weight": "10.50",
+    "sub_data": [
+      {
+        "name": "7094TSR",
+        "commodity": "电子产品",
+        "code_id": "7094TSR",
+        "length": 0.43,
+        "width": 0.27,
+        "height": 0.36,
+        "quantity": 1,
+        "cbm_m3": 0.042,
+        "weight": 10.5,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "顺丰：SF1454836905332",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "2533LJL",
+    "quantity": 2,
+    "cbm_m3": "0.086",
+    "weight": "50.00",
+    "sub_data": [
+      {
+        "name": "2533LJL",
+        "commodity": "印刷材料",
+        "code_id": "2533LJL",
+        "length": 0.6,
+        "width": 0.4,
+        "height": 0.18,
+        "quantity": 2,
+        "cbm_m3": 0.086,
+        "weight": 50,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "平安达：100057156066",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "26828FCK",
+    "quantity": 1,
+    "cbm_m3": "0.123",
+    "weight": "32.00",
+    "sub_data": [
+      {
+        "name": "26828FCK",
+        "commodity": "护板",
+        "code_id": "26828FCK",
+        "length": 0.95,
+        "width": 0.65,
+        "height": 0.2,
+        "quantity": 1,
+        "cbm_m3": 0.123,
+        "weight": 32,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "平安达：100057166640.单号GZ:0029279",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "15047TCM",
+    "quantity": 7,
+    "cbm_m3": "0.479",
+    "weight": "123.00",
+    "sub_data": [
+      {
+        "name": "15047TCM",
+        "commodity": "烫发剂",
+        "code_id": "15047TCM",
+        "length": 0.6,
+        "width": 0.43,
+        "height": 0.265,
+        "quantity": 7,
+        "cbm_m3": 0.479,
+        "weight": 123,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "平安达：100057128771",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "4569KTY",
+    "quantity": 2,
+    "cbm_m3": "0.136",
+    "weight": "66.00",
+    "sub_data": [
+      {
+        "name": "4569KTY",
+        "commodity": "开关",
+        "code_id": "4569KTY",
+        "length": 0.63,
+        "width": 0.45,
+        "height": 0.26,
+        "quantity": 1,
+        "cbm_m3": 0.074,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "牌子：CHNT",
+        "tracking_number": "顺心：S60787588887",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "4569KTY",
+        "commodity": "开关",
+        "code_id": "4569KTY",
+        "length": 0.53,
+        "width": 0.45,
+        "height": 0.26,
+        "quantity": 1,
+        "cbm_m3": 0.062,
+        "weight": 66,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "顺心：S60787588887",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "26752PHD",
+    "quantity": 2,
+    "cbm_m3": "0.167",
+    "weight": "35.00",
+    "sub_data": [
+      {
+        "name": "26752PHD",
+        "commodity": "电动漂移车",
+        "code_id": "26752PHD",
+        "length": 0.69,
+        "width": 0.55,
+        "height": 0.22,
+        "quantity": 2,
+        "cbm_m3": 0.167,
+        "weight": 35,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "顺心：S20496558892",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "9102YSP",
+    "quantity": 21,
+    "cbm_m3": "1.220",
+    "weight": "216.00",
+    "sub_data": [
+      {
+        "name": "9102YSP",
+        "commodity": "文件夹",
+        "code_id": "9102YSP",
+        "length": 0.56,
+        "width": 0.36,
+        "height": 0.25,
+        "quantity": 4,
+        "cbm_m3": 0.202,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "极兔：JT3051987986300.JT3051987986277.JT3051987986299.JT3051987986288.JT3051987986322.JT3051987986255",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "9102YSP",
+        "commodity": "文件夹",
+        "code_id": "9102YSP",
+        "length": 0.56,
+        "width": 0.37,
+        "height": 0.27,
+        "quantity": 1,
+        "cbm_m3": 0.056,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "极兔：JT3051987986300.JT3051987986277.JT3051987986299.JT3051987986288.JT3051987986322.JT3051987986255",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "9102YSP",
+        "commodity": "文件夹",
+        "code_id": "9102YSP",
+        "length": 0.52,
+        "width": 0.35,
+        "height": 0.45,
+        "quantity": 1,
+        "cbm_m3": 0.082,
+        "weight": 90,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "极兔：JT3051987986300.JT3051987986277.JT3051987986299.JT3051987986288.JT3051987986322.JT3051987986255",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "9102YSP",
+        "commodity": "文件夹",
+        "code_id": "9102YSP",
+        "length": 0.56,
+        "width": 0.37,
+        "height": 0.41,
+        "quantity": 1,
+        "cbm_m3": 0.085,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "极兔：JT3051987986266.JT3051987986311",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "9102YSP",
+        "commodity": "文件夹",
+        "code_id": "9102YSP",
+        "length": 0.5,
+        "width": 0.36,
+        "height": 0.43,
+        "quantity": 1,
+        "cbm_m3": 0.077,
+        "weight": 37,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "极兔：JT3051987986266.JT3051987986311",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "9102YSP",
+        "commodity": "文件夹",
+        "code_id": "9102YSP",
+        "length": 0.57,
+        "width": 0.35,
+        "height": 0.26,
+        "quantity": 1,
+        "cbm_m3": 0.052,
+        "weight": 19,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "极兔：JT3051987986333",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "9102YSP",
+        "commodity": "装饰花",
+        "code_id": "9102YSP",
+        "length": 0.53,
+        "width": 0.29,
+        "height": 0.37,
+        "quantity": 6,
+        "cbm_m3": 0.341,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "共19件.0.986方.重量100KG.6号出12件.剩7件",
+        "tracking_number": "顺心：S60792041049",
+        "in_date": "2023-11-05T17:00:00.000Z"
+      },
+      {
+        "name": "9102YSP",
+        "commodity": "装饰花",
+        "code_id": "9102YSP",
+        "length": 0.96,
+        "width": 0.2,
+        "height": 0.19,
+        "quantity": 2,
+        "cbm_m3": 0.073,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "有贴标贴",
+        "tracking_number": "顺心：S60792041049",
+        "in_date": "2023-11-05T17:00:00.000Z"
+      },
+      {
+        "name": "9102YSP",
+        "commodity": "装饰花",
+        "code_id": "9102YSP",
+        "length": 1.05,
+        "width": 0.21,
+        "height": 0.22,
+        "quantity": 2,
+        "cbm_m3": 0.097,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "顺心：S60792041049",
+        "in_date": "2023-11-05T17:00:00.000Z"
+      },
+      {
+        "name": "9102YSP",
+        "commodity": "装饰花",
+        "code_id": "9102YSP",
+        "length": 0.4,
+        "width": 0.35,
+        "height": 0.36,
+        "quantity": 1,
+        "cbm_m3": 0.05,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "顺心：S60792041049",
+        "in_date": "2023-11-05T17:00:00.000Z"
+      },
+      {
+        "name": "9102YSP",
+        "commodity": "装饰花",
+        "code_id": "9102YSP",
+        "length": 0.63,
+        "width": 0.34,
+        "height": 0.49,
+        "quantity": 1,
+        "cbm_m3": 0.105,
+        "weight": 70,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "顺心：S60792041049",
+        "in_date": "2023-11-05T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "21416HRT",
+    "quantity": 1,
+    "cbm_m3": "0.026",
+    "weight": "5.30",
+    "sub_data": [
+      {
+        "name": "21416HRT",
+        "commodity": "渔具",
+        "code_id": "21416HRT",
+        "length": 0.43,
+        "width": 0.22,
+        "height": 0.28,
+        "quantity": 1,
+        "cbm_m3": 0.026,
+        "weight": 5.3,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "德邦：DPK364255075279",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "LL0063",
+    "quantity": 3,
+    "cbm_m3": "0.178",
+    "weight": "8.80",
+    "sub_data": [
+      {
+        "name": "LL0063",
+        "commodity": "晾衣架.垫子",
+        "code_id": "LL0063",
+        "length": 1.83,
+        "width": 0.27,
+        "height": 0.27,
+        "quantity": 1,
+        "cbm_m3": 0.133,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "德邦：DPK300885001865.DPK364253807703",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "LL0063",
+        "commodity": "晾衣架.垫子",
+        "code_id": "LL0063",
+        "length": 1.6,
+        "width": 0.13,
+        "height": 0.14,
+        "quantity": 1,
+        "cbm_m3": 0.029,
+        "weight": 7,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "德邦：DPK300885001865.DPK364253807703",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "LL0063",
+        "commodity": "衣架",
+        "code_id": "LL0063",
+        "length": 0.4,
+        "width": 0.22,
+        "height": 0.18,
+        "quantity": 1,
+        "cbm_m3": 0.016,
+        "weight": 1.8,
+        "other_expense": "",
+        "remark": "共2件.0.032方.重量3.6KG.4号出1件.6号出1件",
+        "tracking_number": "​圆通：YT7423645029469",
+        "in_date": "2023-11-01T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "LL0751",
+    "quantity": 2,
+    "cbm_m3": "1.384",
+    "weight": "1293.00",
+    "sub_data": [
+      {
+        "name": "LL0751",
+        "commodity": "农机配件转向壳体",
+        "code_id": "LL0751",
+        "length": 1.2,
+        "width": 0.9,
+        "height": 0.48,
+        "quantity": 1,
+        "cbm_m3": 0.518,
+        "weight": 560,
+        "other_expense": "要叉车",
+        "remark": "NAMYANG",
+        "tracking_number": "单号GZ:0008778",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "LL0751",
+        "commodity": "农机配件转向壳体",
+        "code_id": "LL0751",
+        "length": 1.23,
+        "width": 0.88,
+        "height": 0.8,
+        "quantity": 1,
+        "cbm_m3": 0.866,
+        "weight": 733,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "单号GZ:0008778",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "2414SPM",
+    "quantity": 2,
+    "cbm_m3": "0.217",
+    "weight": "31.00",
+    "sub_data": [
+      {
+        "name": "2414SPM",
+        "commodity": "电子产品",
+        "code_id": "2414SPM",
+        "length": 0.58,
+        "width": 0.52,
+        "height": 0.36,
+        "quantity": 2,
+        "cbm_m3": 0.217,
+        "weight": 31,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "联昊通：800674531029",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "3016SSM",
+    "quantity": 1,
+    "cbm_m3": "0.012",
+    "weight": "1.20",
+    "sub_data": [
+      {
+        "name": "3016SSM",
+        "commodity": "塑料件",
+        "code_id": "3016SSM",
+        "length": 0.3,
+        "width": 0.21,
+        "height": 0.19,
+        "quantity": 1,
+        "cbm_m3": 0.012,
+        "weight": 1.2,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "联昊通：901079125244",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "25917HAX",
+    "quantity": 7,
+    "cbm_m3": "0.474",
+    "weight": "133.00",
+    "sub_data": [
+      {
+        "name": "25917HAX",
+        "commodity": "碳粉",
+        "code_id": "25917HAX",
+        "length": 0.55,
+        "width": 0.37,
+        "height": 0.25,
+        "quantity": 1,
+        "cbm_m3": 0.051,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "联昊通：900985654039",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "25917HAX",
+        "commodity": "碳粉",
+        "code_id": "25917HAX",
+        "length": 0.56,
+        "width": 0.35,
+        "height": 0.32,
+        "quantity": 4,
+        "cbm_m3": 0.251,
+        "weight": 96,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "联昊通：900985654039",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "25917HAX",
+        "commodity": "清洗棒",
+        "code_id": "25917HAX",
+        "length": 0.42,
+        "width": 0.39,
+        "height": 0.38,
+        "quantity": 1,
+        "cbm_m3": 0.062,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "优速：910000242197",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "25917HAX",
+        "commodity": "清洗棒",
+        "code_id": "25917HAX",
+        "length": 0.5,
+        "width": 0.49,
+        "height": 0.45,
+        "quantity": 1,
+        "cbm_m3": 0.11,
+        "weight": 37,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "优速：910000242197",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "13992SMY",
+    "quantity": 1,
+    "cbm_m3": "0.043",
+    "weight": "43.00",
+    "sub_data": [
+      {
+        "name": "13992SMY",
+        "commodity": "饰品",
+        "code_id": "13992SMY",
+        "length": 0.4,
+        "width": 0.3,
+        "height": 0.36,
+        "quantity": 1,
+        "cbm_m3": 0.043,
+        "weight": 43,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "联昊通：800673461646",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "24023HKK",
+    "quantity": 1,
+    "cbm_m3": "0.026",
+    "weight": "5.50",
+    "sub_data": [
+      {
+        "name": "24023HKK",
+        "commodity": "支架",
+        "code_id": "24023HKK",
+        "length": 0.4,
+        "width": 0.32,
+        "height": 0.2,
+        "quantity": 1,
+        "cbm_m3": 0.026,
+        "weight": 5.5,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "中通：787383921750003",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "28626APD",
+    "quantity": 2,
+    "cbm_m3": "0.085",
+    "weight": "7.40",
+    "sub_data": [
+      {
+        "name": "28626APD",
+        "commodity": "日用品",
+        "code_id": "28626APD",
+        "length": 0.46,
+        "width": 0.3,
+        "height": 0.33,
+        "quantity": 1,
+        "cbm_m3": 0.046,
+        "weight": 4,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "中通：78737802327610",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "28626APD",
+        "commodity": "地毯",
+        "code_id": "28626APD",
+        "length": 2,
+        "width": 0.14,
+        "height": 0.14,
+        "quantity": 1,
+        "cbm_m3": 0.039,
+        "weight": 3.4,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "韵达：433529270601614",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "2999YH",
+    "quantity": 88,
+    "cbm_m3": "7.530",
+    "weight": "1758.50",
+    "sub_data": [
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.48,
+        "width": 0.38,
+        "height": 0.3,
+        "quantity": 1,
+        "cbm_m3": 0.055,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "有贴标贴",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.49,
+        "width": 0.41,
+        "height": 0.33,
+        "quantity": 1,
+        "cbm_m3": 0.066,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.54,
+        "width": 0.33,
+        "height": 0.29,
+        "quantity": 1,
+        "cbm_m3": 0.052,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.43,
+        "width": 0.33,
+        "height": 0.31,
+        "quantity": 2,
+        "cbm_m3": 0.088,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.51,
+        "width": 0.65,
+        "height": 0.41,
+        "quantity": 1,
+        "cbm_m3": 0.136,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.63,
+        "width": 0.45,
+        "height": 0.41,
+        "quantity": 1,
+        "cbm_m3": 0.116,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.48,
+        "width": 0.37,
+        "height": 0.3,
+        "quantity": 2,
+        "cbm_m3": 0.107,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.37,
+        "width": 0.4,
+        "height": 0.35,
+        "quantity": 1,
+        "cbm_m3": 0.052,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.41,
+        "width": 0.5,
+        "height": 0.34,
+        "quantity": 1,
+        "cbm_m3": 0.07,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.55,
+        "width": 0.34,
+        "height": 0.28,
+        "quantity": 1,
+        "cbm_m3": 0.052,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.51,
+        "width": 0.3,
+        "height": 0.26,
+        "quantity": 1,
+        "cbm_m3": 0.04,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.53,
+        "width": 0.3,
+        "height": 0.32,
+        "quantity": 1,
+        "cbm_m3": 0.051,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.47,
+        "width": 0.39,
+        "height": 0.3,
+        "quantity": 1,
+        "cbm_m3": 0.055,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.5,
+        "width": 0.4,
+        "height": 0.34,
+        "quantity": 1,
+        "cbm_m3": 0.068,
+        "weight": 250,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.51,
+        "width": 0.44,
+        "height": 0.3,
+        "quantity": 1,
+        "cbm_m3": 0.067,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.63,
+        "width": 0.42,
+        "height": 0.4,
+        "quantity": 1,
+        "cbm_m3": 0.106,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.54,
+        "width": 0.56,
+        "height": 0.28,
+        "quantity": 1,
+        "cbm_m3": 0.085,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.58,
+        "width": 0.5,
+        "height": 0.3,
+        "quantity": 1,
+        "cbm_m3": 0.087,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.49,
+        "width": 0.39,
+        "height": 0.86,
+        "quantity": 1,
+        "cbm_m3": 0.164,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.66,
+        "width": 0.39,
+        "height": 0.31,
+        "quantity": 3,
+        "cbm_m3": 0.239,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.55,
+        "width": 0.55,
+        "height": 0.29,
+        "quantity": 3,
+        "cbm_m3": 0.263,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.57,
+        "width": 0.51,
+        "height": 0.31,
+        "quantity": 2,
+        "cbm_m3": 0.18,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.48,
+        "width": 0.38,
+        "height": 0.31,
+        "quantity": 1,
+        "cbm_m3": 0.057,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.63,
+        "width": 0.43,
+        "height": 0.4,
+        "quantity": 1,
+        "cbm_m3": 0.108,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.65,
+        "width": 0.5,
+        "height": 0.4,
+        "quantity": 1,
+        "cbm_m3": 0.13,
+        "weight": 267,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.8,
+        "width": 0.4,
+        "height": 0.52,
+        "quantity": 1,
+        "cbm_m3": 0.166,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.71,
+        "width": 0.4,
+        "height": 0.55,
+        "quantity": 1,
+        "cbm_m3": 0.156,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.44,
+        "width": 0.45,
+        "height": 0.55,
+        "quantity": 1,
+        "cbm_m3": 0.109,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.74,
+        "width": 0.44,
+        "height": 0.63,
+        "quantity": 1,
+        "cbm_m3": 0.205,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.77,
+        "width": 0.61,
+        "height": 0.43,
+        "quantity": 2,
+        "cbm_m3": 0.404,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.56,
+        "width": 0.45,
+        "height": 0.74,
+        "quantity": 1,
+        "cbm_m3": 0.186,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.7,
+        "width": 0.6,
+        "height": 0.38,
+        "quantity": 1,
+        "cbm_m3": 0.16,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.68,
+        "width": 0.57,
+        "height": 0.4,
+        "quantity": 1,
+        "cbm_m3": 0.155,
+        "weight": 220,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.82,
+        "width": 0.53,
+        "height": 0.44,
+        "quantity": 1,
+        "cbm_m3": 0.191,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.61,
+        "width": 0.46,
+        "height": 0.76,
+        "quantity": 1,
+        "cbm_m3": 0.213,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.52,
+        "width": 0.44,
+        "height": 0.81,
+        "quantity": 1,
+        "cbm_m3": 0.185,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.58,
+        "width": 0.41,
+        "height": 0.68,
+        "quantity": 1,
+        "cbm_m3": 0.162,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.68,
+        "width": 0.56,
+        "height": 0.41,
+        "quantity": 1,
+        "cbm_m3": 0.156,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.65,
+        "width": 0.42,
+        "height": 0.68,
+        "quantity": 1,
+        "cbm_m3": 0.186,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.58,
+        "width": 0.68,
+        "height": 0.41,
+        "quantity": 2,
+        "cbm_m3": 0.323,
+        "weight": 190,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "手机支架.数据线",
+        "code_id": "2999YH",
+        "length": 0.7,
+        "width": 0.65,
+        "height": 0.4,
+        "quantity": 1,
+        "cbm_m3": 0.182,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008779",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "灭火器",
+        "code_id": "2999YH",
+        "length": 1,
+        "width": 0.42,
+        "height": 0.35,
+        "quantity": 2,
+        "cbm_m3": 0.294,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "速腾：9990296032860.中通：300646222722",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK333",
+        "commodity": "灭火器",
+        "code_id": "2999YH",
+        "length": 0.6,
+        "width": 0.34,
+        "height": 0.17,
+        "quantity": 5,
+        "cbm_m3": 0.173,
+        "weight": 200,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "速腾：9990296032860.中通：300646222722",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHLWKHOMYF001",
+        "commodity": "日用品",
+        "code_id": "2999YH",
+        "length": 0.33,
+        "width": 0.32,
+        "height": 0.27,
+        "quantity": 1,
+        "cbm_m3": 0.029,
+        "weight": 5.5,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "申通：773252376029786",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAL409",
+        "commodity": "打印纸",
+        "code_id": "2999YH",
+        "length": 0.53,
+        "width": 0.31,
+        "height": 0.4,
+        "quantity": 20,
+        "cbm_m3": 1.314,
+        "weight": 570,
+        "other_expense": "",
+        "remark": "金蝴蝶 JINHUDIE,有贴标贴",
+        "tracking_number": "单号GZ:0008787",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "YHAK101",
+        "commodity": "涂料",
+        "code_id": "2999YH",
+        "length": 0.18,
+        "width": 0.18,
+        "height": 0.27,
+        "quantity": 10,
+        "cbm_m3": 0.087,
+        "weight": 56,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "京东：JDKA00564262462",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "27636CHNG",
+    "quantity": 2,
+    "cbm_m3": "0.344",
+    "weight": "55.00",
+    "sub_data": [
+      {
+        "name": "27636CHNG",
+        "commodity": "杯子",
+        "code_id": "27636CHNG",
+        "length": 0.59,
+        "width": 0.56,
+        "height": 0.52,
+        "quantity": 2,
+        "cbm_m3": 0.344,
+        "weight": 55,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "百世：81198845836",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "28912KHG",
+    "quantity": 2,
+    "cbm_m3": "0.149",
+    "weight": "37.00",
+    "sub_data": [
+      {
+        "name": "28912KHG",
+        "commodity": "五金配件",
+        "code_id": "28912KHG",
+        "length": 0.6,
+        "width": 0.4,
+        "height": 0.39,
+        "quantity": 1,
+        "cbm_m3": 0.094,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "百世：92316337385",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "28912KHG",
+        "commodity": "五金配件",
+        "code_id": "28912KHG",
+        "length": 0.55,
+        "width": 0.4,
+        "height": 0.25,
+        "quantity": 1,
+        "cbm_m3": 0.055,
+        "weight": 37,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "百世：92316337385",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "21016LKG",
+    "quantity": 1,
+    "cbm_m3": "0.135",
+    "weight": "18.00",
+    "sub_data": [
+      {
+        "name": "21016LKG",
+        "commodity": "单车",
+        "code_id": "21016LKG",
+        "length": 0.87,
+        "width": 0.74,
+        "height": 0.21,
+        "quantity": 1,
+        "cbm_m3": 0.135,
+        "weight": 18,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "百世：81194901071",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "28597LIN",
+    "quantity": 1,
+    "cbm_m3": "0.077",
+    "weight": "3.50",
+    "sub_data": [
+      {
+        "name": "28597LIN",
+        "commodity": "被子",
+        "code_id": "28597LIN",
+        "length": 0.57,
+        "width": 0.41,
+        "height": 0.33,
+        "quantity": 1,
+        "cbm_m3": 0.077,
+        "weight": 3.5,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "韵达：433530983495428",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "9077TSY",
+    "quantity": 1,
+    "cbm_m3": "0.014",
+    "weight": "2.00",
+    "sub_data": [
+      {
+        "name": "9077TSY",
+        "commodity": "服装",
+        "code_id": "9077TSY",
+        "length": 0.4,
+        "width": 0.35,
+        "height": 0.1,
+        "quantity": 1,
+        "cbm_m3": 0.014,
+        "weight": 2,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "圆通：YT7424088942232",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "13733CSH",
+    "quantity": 1,
+    "cbm_m3": "0.025",
+    "weight": "2.40",
+    "sub_data": [
+      {
+        "name": "13733CSH",
+        "commodity": "塑料件",
+        "code_id": "13733CSH",
+        "length": 0.43,
+        "width": 0.37,
+        "height": 0.16,
+        "quantity": 1,
+        "cbm_m3": 0.025,
+        "weight": 2.4,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "圆通：YT7424440468802",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "1222LJF",
+    "quantity": 3,
+    "cbm_m3": "0.290",
+    "weight": "40.50",
+    "sub_data": [
+      {
+        "name": "1222LJF",
+        "commodity": "衣服",
+        "code_id": "1222LJF",
+        "length": 0.75,
+        "width": 0.8,
+        "height": 0.23,
+        "quantity": 1,
+        "cbm_m3": 0.138,
+        "weight": 36,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "快捷快：890001252733",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "1222LJF",
+        "commodity": "日用品",
+        "code_id": "1222LJF",
+        "length": 0.39,
+        "width": 0.4,
+        "height": 0.2,
+        "quantity": 1,
+        "cbm_m3": 0.031,
+        "weight": 1.5,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "韵达：433528799715813",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "1222LJF",
+        "commodity": "防尘罩",
+        "code_id": "1222LJF",
+        "length": 0.56,
+        "width": 0.56,
+        "height": 0.385,
+        "quantity": 1,
+        "cbm_m3": 0.121,
+        "weight": 3,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "德邦：DPK300892009062",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "20794PIY",
+    "quantity": 19,
+    "cbm_m3": "2.502",
+    "weight": "760.00",
+    "sub_data": [
+      {
+        "name": "20794PIY",
+        "commodity": "铝塑板材",
+        "code_id": "20794PIY",
+        "length": 3.02,
+        "width": 0.22,
+        "height": 0.21,
+        "quantity": 16,
+        "cbm_m3": 2.232,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "有贴标贴",
+        "tracking_number": "单号GZ:0029288",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "20794PIY",
+        "commodity": "铝塑板材",
+        "code_id": "20794PIY",
+        "length": 3.02,
+        "width": 0.17,
+        "height": 0.17,
+        "quantity": 2,
+        "cbm_m3": 0.175,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0029288",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "20794PIY",
+        "commodity": "铝塑板材",
+        "code_id": "20794PIY",
+        "length": 3.02,
+        "width": 0.21,
+        "height": 0.15,
+        "quantity": 1,
+        "cbm_m3": 0.095,
+        "weight": 760,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0029288",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "3959SCT",
+    "quantity": 12,
+    "cbm_m3": "0.509",
+    "weight": "234.00",
+    "sub_data": [
+      {
+        "name": "3959SCT",
+        "commodity": "数据线端子插口",
+        "code_id": "3959SCT",
+        "length": 0.38,
+        "width": 0.39,
+        "height": 0.295,
+        "quantity": 10,
+        "cbm_m3": 0.437,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "速腾：8880304282640",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "3959SCT",
+        "commodity": "数据线端子插口",
+        "code_id": "3959SCT",
+        "length": 0.5,
+        "width": 0.24,
+        "height": 0.19,
+        "quantity": 1,
+        "cbm_m3": 0.023,
+        "weight": 220,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "速腾：8880304282640",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "3959SCT",
+        "commodity": "打印配件",
+        "code_id": "3959SCT",
+        "length": 0.51,
+        "width": 0.37,
+        "height": 0.26,
+        "quantity": 1,
+        "cbm_m3": 0.049,
+        "weight": 14,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "优速：910000244898",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "12795PKM",
+    "quantity": 5,
+    "cbm_m3": "0.334",
+    "weight": "130.00",
+    "sub_data": [
+      {
+        "name": "12795PKM",
+        "commodity": "洗发水",
+        "code_id": "12795PKM",
+        "length": 0.66,
+        "width": 0.405,
+        "height": 0.25,
+        "quantity": 5,
+        "cbm_m3": 0.334,
+        "weight": 130,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "单号GZ:0029289",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "24561KSP",
+    "quantity": 4,
+    "cbm_m3": "0.218",
+    "weight": "90.00",
+    "sub_data": [
+      {
+        "name": "24561KSP",
+        "commodity": "洗发水",
+        "code_id": "24561KSP",
+        "length": 0.6,
+        "width": 0.37,
+        "height": 0.245,
+        "quantity": 4,
+        "cbm_m3": 0.218,
+        "weight": 90,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "单号GZ:0029290",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "22520CNB",
+    "quantity": 2,
+    "cbm_m3": "0.252",
+    "weight": "28.70",
+    "sub_data": [
+      {
+        "name": "22520CNB",
+        "commodity": "玩具",
+        "code_id": "22520CNB",
+        "length": 0.89,
+        "width": 0.33,
+        "height": 0.8,
+        "quantity": 1,
+        "cbm_m3": 0.235,
+        "weight": 27,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "优速：910000199330",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "22520CNB",
+        "commodity": "塑料件",
+        "code_id": "22520CNB",
+        "length": 0.4,
+        "width": 0.25,
+        "height": 0.17,
+        "quantity": 1,
+        "cbm_m3": 0.017,
+        "weight": 1.7,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "极兔：JT3051794261429",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "27211HEN",
+    "quantity": 2,
+    "cbm_m3": "0.114",
+    "weight": "35.00",
+    "sub_data": [
+      {
+        "name": "27211HEN",
+        "commodity": "五金配件",
+        "code_id": "27211HEN",
+        "length": 0.48,
+        "width": 0.36,
+        "height": 0.33,
+        "quantity": 2,
+        "cbm_m3": 0.114,
+        "weight": 35,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "优速：519202625797",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "LL0627",
+    "quantity": 4,
+    "cbm_m3": "0.682",
+    "weight": "101.00",
+    "sub_data": [
+      {
+        "name": "LL0627",
+        "commodity": "五金件",
+        "code_id": "LL0627",
+        "length": 1.01,
+        "width": 0.6,
+        "height": 0.25,
+        "quantity": 1,
+        "cbm_m3": 0.152,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "速腾：999026433271",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "LL0627",
+        "commodity": "五金件",
+        "code_id": "LL0627",
+        "length": 1.2,
+        "width": 0.64,
+        "height": 0.3,
+        "quantity": 1,
+        "cbm_m3": 0.23,
+        "weight": 72,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "速腾：999026433271",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "LL0627",
+        "commodity": "塑料件",
+        "code_id": "LL0627",
+        "length": 0.7,
+        "width": 0.51,
+        "height": 0.42,
+        "quantity": 2,
+        "cbm_m3": 0.3,
+        "weight": 29,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "中通：78737368194795.78737367431578",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "3432ETK",
+    "quantity": 1,
+    "cbm_m3": "0.013",
+    "weight": "6.00",
+    "sub_data": [
+      {
+        "name": "3432ETK",
+        "commodity": "香水",
+        "code_id": "3432ETK",
+        "length": 0.25,
+        "width": 0.25,
+        "height": 0.21,
+        "quantity": 1,
+        "cbm_m3": 0.013,
+        "weight": 6,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "申通：773252582340447",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "691KKL",
+    "quantity": 1,
+    "cbm_m3": "0.061",
+    "weight": "5.00",
+    "sub_data": [
+      {
+        "name": "691KKL",
+        "commodity": "塑料件",
+        "code_id": "691KKL",
+        "length": 0.51,
+        "width": 0.46,
+        "height": 0.26,
+        "quantity": 1,
+        "cbm_m3": 0.061,
+        "weight": 5,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "圆通：YT7424576067788",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "30242CHK",
+    "quantity": 1,
+    "cbm_m3": "0.019",
+    "weight": "9.50",
+    "sub_data": [
+      {
+        "name": "30242CHK",
+        "commodity": "化妆品",
+        "code_id": "30242CHK",
+        "length": 0.41,
+        "width": 0.25,
+        "height": 0.19,
+        "quantity": 1,
+        "cbm_m3": 0.019,
+        "weight": 9.5,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "韵达：433530621141600",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "28296KHA",
+    "quantity": 1,
+    "cbm_m3": "0.083",
+    "weight": "17.00",
+    "sub_data": [
+      {
+        "name": "28296KHA",
+        "commodity": "纸袋",
+        "code_id": "28296KHA",
+        "length": 0.51,
+        "width": 0.45,
+        "height": 0.36,
+        "quantity": 1,
+        "cbm_m3": 0.083,
+        "weight": 17,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "安能：300553384136",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "24958DWE",
+    "quantity": 3,
+    "cbm_m3": "0.606",
+    "weight": "78.00",
+    "sub_data": [
+      {
+        "name": "24958DWE",
+        "commodity": "厨具配件",
+        "code_id": "24958DWE",
+        "length": 0.58,
+        "width": 0.47,
+        "height": 0.49,
+        "quantity": 1,
+        "cbm_m3": 0.134,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "单号GZ:0029284",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "24958DWE",
+        "commodity": "厨具配件",
+        "code_id": "24958DWE",
+        "length": 0.65,
+        "width": 0.6,
+        "height": 0.8,
+        "quantity": 1,
+        "cbm_m3": 0.312,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "单号GZ:0029284",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "24958DWE",
+        "commodity": "厨具配件",
+        "code_id": "24958DWE",
+        "length": 0.64,
+        "width": 0.61,
+        "height": 0.41,
+        "quantity": 1,
+        "cbm_m3": 0.16,
+        "weight": 78,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "单号GZ:0029284",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "28728KMN",
+    "quantity": 50,
+    "cbm_m3": "2.850",
+    "weight": "1235.00",
+    "sub_data": [
+      {
+        "name": "28728KMN",
+        "commodity": "包装袋",
+        "code_id": "28728KMN",
+        "length": 0.57,
+        "width": 0.5,
+        "height": 0.2,
+        "quantity": 50,
+        "cbm_m3": 2.85,
+        "weight": 1235,
+        "other_expense": "",
+        "remark": "MUmmy& BABY CUTE,有贴标贴",
+        "tracking_number": "壹米：107717390471",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "4199SCN",
+    "quantity": 17,
+    "cbm_m3": "0.646",
+    "weight": "270.00",
+    "sub_data": [
+      {
+        "name": "4199SCN",
+        "commodity": "铁架",
+        "code_id": "4199SCN",
+        "length": 0.83,
+        "width": 0.4,
+        "height": 0.11,
+        "quantity": 5,
+        "cbm_m3": 0.183,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "壹米：107712054854",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "4199SCN",
+        "commodity": "铁架",
+        "code_id": "4199SCN",
+        "length": 0.74,
+        "width": 0.36,
+        "height": 0.2,
+        "quantity": 2,
+        "cbm_m3": 0.107,
+        "weight": 140,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "壹米：107712054854",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "4199SCN",
+        "commodity": "铁架",
+        "code_id": "4199SCN",
+        "length": 0.81,
+        "width": 0.4,
+        "height": 0.11,
+        "quantity": 10,
+        "cbm_m3": 0.356,
+        "weight": 130,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "顺心：3508412197",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "3187CR",
+    "quantity": 6,
+    "cbm_m3": "0.895",
+    "weight": "100.00",
+    "sub_data": [
+      {
+        "name": "3187CR",
+        "commodity": "置物架",
+        "code_id": "3187CR",
+        "length": 2.03,
+        "width": 0.61,
+        "height": 0.17,
+        "quantity": 2,
+        "cbm_m3": 0.421,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "德邦：DPK300889420013",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "3187CR",
+        "commodity": "置物架",
+        "code_id": "3187CR",
+        "length": 1.96,
+        "width": 0.26,
+        "height": 0.21,
+        "quantity": 2,
+        "cbm_m3": 0.214,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "德邦：DPK300889420013",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "3187CR",
+        "commodity": "置物架",
+        "code_id": "3187CR",
+        "length": 0.97,
+        "width": 0.61,
+        "height": 0.22,
+        "quantity": 2,
+        "cbm_m3": 0.26,
+        "weight": 100,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "德邦：DPK300889420013",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "1409TY",
+    "quantity": 1,
+    "cbm_m3": "0.051",
+    "weight": "5.50",
+    "sub_data": [
+      {
+        "name": "1409TY",
+        "commodity": "电动椅",
+        "code_id": "1409TY",
+        "length": 0.51,
+        "width": 0.5,
+        "height": 0.2,
+        "quantity": 1,
+        "cbm_m3": 0.051,
+        "weight": 5.5,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "申通：773252133470253",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "692SDL",
+    "quantity": 115,
+    "cbm_m3": "6.916",
+    "weight": "2420.00",
+    "sub_data": [
+      {
+        "name": "692SDL",
+        "commodity": "铝材",
+        "code_id": "692SDL",
+        "length": 6.825,
+        "width": 0.16,
+        "height": 0.07,
+        "quantity": 40,
+        "cbm_m3": 3.058,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "有贴标贴",
+        "tracking_number": "单号GZ:0008781",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "692SDL",
+        "commodity": "铝材",
+        "code_id": "692SDL",
+        "length": 5.9,
+        "width": 0.11,
+        "height": 0.1,
+        "quantity": 8,
+        "cbm_m3": 0.519,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "单号GZ:0008781",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "692SDL",
+        "commodity": "铝材",
+        "code_id": "692SDL",
+        "length": 5.9,
+        "width": 0.08,
+        "height": 0.06,
+        "quantity": 1,
+        "cbm_m3": 0.028,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "单号GZ:0008781",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "692SDL",
+        "commodity": "铝材",
+        "code_id": "692SDL",
+        "length": 5.9,
+        "width": 0.11,
+        "height": 0.08,
+        "quantity": 63,
+        "cbm_m3": 3.271,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "单号GZ:0008781",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "692SDL",
+        "commodity": "铝材",
+        "code_id": "692SDL",
+        "length": 3,
+        "width": 0.07,
+        "height": 0.08,
+        "quantity": 2,
+        "cbm_m3": 0.034,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "单号GZ:0008781",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "692SDL",
+        "commodity": "铝材",
+        "code_id": "692SDL",
+        "length": 3,
+        "width": 0.07,
+        "height": 0.03,
+        "quantity": 1,
+        "cbm_m3": 0.006,
+        "weight": 2420,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "单号GZ:0008781",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "25629TYF",
+    "quantity": 20,
+    "cbm_m3": "2.763",
+    "weight": "380.00",
+    "sub_data": [
+      {
+        "name": "25629TYF",
+        "commodity": "儿童摩托车",
+        "code_id": "25629TYF",
+        "length": 1.05,
+        "width": 0.535,
+        "height": 0.25,
+        "quantity": 5,
+        "cbm_m3": 0.702,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "Hyper GoGo",
+        "tracking_number": "单号GZ:0008785",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "25629TYF",
+        "commodity": "儿童摩托车",
+        "code_id": "25629TYF",
+        "length": 1.07,
+        "width": 0.535,
+        "height": 0.24,
+        "quantity": 15,
+        "cbm_m3": 2.061,
+        "weight": 380,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "单号GZ:0008785",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "2769KSR",
+    "quantity": 1,
+    "cbm_m3": "0.042",
+    "weight": "5.50",
+    "sub_data": [
+      {
+        "name": "2769KSR",
+        "commodity": "净水器",
+        "code_id": "2769KSR",
+        "length": 0.45,
+        "width": 0.42,
+        "height": 0.22,
+        "quantity": 1,
+        "cbm_m3": 0.042,
+        "weight": 5.5,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "韵达：433533963923062",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "19420PPS",
+    "quantity": 1,
+    "cbm_m3": "0.034",
+    "weight": "6.50",
+    "sub_data": [
+      {
+        "name": "19420PPS",
+        "commodity": "灯具",
+        "code_id": "19420PPS",
+        "length": 0.36,
+        "width": 0.36,
+        "height": 0.26,
+        "quantity": 1,
+        "cbm_m3": 0.034,
+        "weight": 6.5,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "韵达：433530911396351",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "26840HMH",
+    "quantity": 17,
+    "cbm_m3": "1.382",
+    "weight": "270.00",
+    "sub_data": [
+      {
+        "name": "26840HMH",
+        "commodity": "密封胶",
+        "code_id": "26840HMH",
+        "length": 0.62,
+        "width": 0.44,
+        "height": 0.36,
+        "quantity": 1,
+        "cbm_m3": 0.098,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "DAO",
+        "tracking_number": "单号GZ:0029292",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "26840HMH",
+        "commodity": "密封胶",
+        "code_id": "26840HMH",
+        "length": 0.58,
+        "width": 0.31,
+        "height": 0.45,
+        "quantity": 15,
+        "cbm_m3": 1.214,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "单号GZ:0029292",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "26840HMH",
+        "commodity": "密封胶",
+        "code_id": "26840HMH",
+        "length": 0.58,
+        "width": 0.3,
+        "height": 0.4,
+        "quantity": 1,
+        "cbm_m3": 0.07,
+        "weight": 270,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "单号GZ:0029292",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "28964PSN",
+    "quantity": 1,
+    "cbm_m3": "0.184",
+    "weight": "39.00",
+    "sub_data": [
+      {
+        "name": "28964PSN",
+        "commodity": "试剂",
+        "code_id": "28964PSN",
+        "length": 0.57,
+        "width": 0.66,
+        "height": 0.49,
+        "quantity": 1,
+        "cbm_m3": 0.184,
+        "weight": 39,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "顺丰：SF1156416598774",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "12568RSS",
+    "quantity": 5,
+    "cbm_m3": "0.149",
+    "weight": "12.20",
+    "sub_data": [
+      {
+        "name": "12568RSS",
+        "commodity": "纸巾",
+        "code_id": "12568RSS",
+        "length": 0.35,
+        "width": 0.33,
+        "height": 0.27,
+        "quantity": 4,
+        "cbm_m3": 0.125,
+        "weight": 11,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "邮政：9872775129735.9872775205746.9872775198633.9872775205748",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "12568RSS",
+        "commodity": "杯子",
+        "code_id": "12568RSS",
+        "length": 0.46,
+        "width": 0.24,
+        "height": 0.22,
+        "quantity": 1,
+        "cbm_m3": 0.024,
+        "weight": 1.2,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "邮政：9872763402564",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "28604KLN",
+    "quantity": 1,
+    "cbm_m3": "0.022",
+    "weight": "4.50",
+    "sub_data": [
+      {
+        "name": "28604KLN",
+        "commodity": "杯子",
+        "code_id": "28604KLN",
+        "length": 0.36,
+        "width": 0.22,
+        "height": 0.28,
+        "quantity": 1,
+        "cbm_m3": 0.022,
+        "weight": 4.5,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "邮政：9872788988563",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "29394PHG",
+    "quantity": 1,
+    "cbm_m3": "0.097",
+    "weight": "12.00",
+    "sub_data": [
+      {
+        "name": "29394PHG",
+        "commodity": "电子产品",
+        "code_id": "29394PHG",
+        "length": 0.79,
+        "width": 0.3,
+        "height": 0.41,
+        "quantity": 1,
+        "cbm_m3": 0.097,
+        "weight": 12,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "德邦：DPK300890722329",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "9027TL",
+    "quantity": 1,
+    "cbm_m3": "0.022",
+    "weight": "1.30",
+    "sub_data": [
+      {
+        "name": "9027TL",
+        "commodity": "塑料件",
+        "code_id": "9027TL",
+        "length": 0.34,
+        "width": 0.5,
+        "height": 0.13,
+        "quantity": 1,
+        "cbm_m3": 0.022,
+        "weight": 1.3,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "邮政：9872805294474",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "26479KYU",
+    "quantity": 3,
+    "cbm_m3": "0.063",
+    "weight": "11.50",
+    "sub_data": [
+      {
+        "name": "26479KYU",
+        "commodity": "衣柜",
+        "code_id": "26479KYU",
+        "length": 0.61,
+        "width": 0.46,
+        "height": 0.09,
+        "quantity": 1,
+        "cbm_m3": 0.025,
+        "weight": 4.5,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "极兔：JT3052135832850",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "26479KYU",
+        "commodity": "衣柜",
+        "code_id": "26479KYU",
+        "length": 0.6,
+        "width": 0.28,
+        "height": 0.08,
+        "quantity": 1,
+        "cbm_m3": 0.013,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "极兔：JT5231474421526.JT352168803069",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "26479KYU",
+        "commodity": "衣柜",
+        "code_id": "26479KYU",
+        "length": 0.6,
+        "width": 0.46,
+        "height": 0.09,
+        "quantity": 1,
+        "cbm_m3": 0.025,
+        "weight": 7,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "极兔：JT5231474421526.JT352168803069",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "SR10193MF",
+    "quantity": 1,
+    "cbm_m3": "0.079",
+    "weight": "12.50",
+    "sub_data": [
+      {
+        "name": "SR10193MF",
+        "commodity": "车灯",
+        "code_id": "SR10193MF",
+        "length": 0.61,
+        "width": 0.42,
+        "height": 0.31,
+        "quantity": 1,
+        "cbm_m3": 0.079,
+        "weight": 12.5,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "中通：78736729665829",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "3382RP",
+    "quantity": 1,
+    "cbm_m3": "0.034",
+    "weight": "31.00",
+    "sub_data": [
+      {
+        "name": "3382RP",
+        "commodity": "铁件",
+        "code_id": "3382RP",
+        "length": 0.41,
+        "width": 0.33,
+        "height": 0.25,
+        "quantity": 1,
+        "cbm_m3": 0.034,
+        "weight": 31,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "中通：78377353431548",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "9163MTK",
+    "quantity": 4,
+    "cbm_m3": "0.540",
+    "weight": "50.80",
+    "sub_data": [
+      {
+        "name": "9163MTK",
+        "commodity": "书架",
+        "code_id": "9163MTK",
+        "length": 0.46,
+        "width": 0.39,
+        "height": 0.95,
+        "quantity": 3,
+        "cbm_m3": 0.511,
+        "weight": 47,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "顺丰：SF1672456822637",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "name": "9163MTK",
+        "commodity": "收纳盒",
+        "code_id": "9163MTK",
+        "length": 0.48,
+        "width": 0.35,
+        "height": 0.17,
+        "quantity": 1,
+        "cbm_m3": 0.029,
+        "weight": 3.8,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "中通：78377625848498",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "28483SSP",
+    "quantity": 1,
+    "cbm_m3": "0.019",
+    "weight": "3.50",
+    "sub_data": [
+      {
+        "name": "28483SSP",
+        "commodity": "置物架",
+        "code_id": "28483SSP",
+        "length": 1.56,
+        "width": 0.24,
+        "height": 0.05,
+        "quantity": 1,
+        "cbm_m3": 0.019,
+        "weight": 3.5,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "韵达：433527050011255",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "1998TY",
+    "quantity": 2,
+    "cbm_m3": "0.070",
+    "weight": "23.00",
+    "sub_data": [
+      {
+        "name": "1998TY",
+        "commodity": "日用品",
+        "code_id": "1998TY",
+        "length": 0.55,
+        "width": 0.32,
+        "height": 0.2,
+        "quantity": 2,
+        "cbm_m3": 0.07,
+        "weight": 23,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "韵达：433530127513509.433530127513600",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "25307CHH",
+    "quantity": 1,
+    "cbm_m3": "0.030",
+    "weight": "15.00",
+    "sub_data": [
+      {
+        "name": "25307CHH",
+        "commodity": "机油",
+        "code_id": "25307CHH",
+        "length": 0.4,
+        "width": 0.25,
+        "height": 0.3,
+        "quantity": 1,
+        "cbm_m3": 0.03,
+        "weight": 15,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "韵达：312245135734337",
+        "in_date": "2023-11-03T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "29261ARA",
+    "quantity": 100,
+    "cbm_m3": "3.137",
+    "weight": "814.50",
+    "sub_data": [
+      {
+        "name": "29261ARA",
+        "commodity": "洗发水",
+        "code_id": "29261ARA",
+        "length": 0.44,
+        "width": 0.31,
+        "height": 0.23,
+        "quantity": 100,
+        "cbm_m3": 3.137,
+        "weight": 814.5,
+        "other_expense": "",
+        "remark": "​共279件.8.79方.重量2282KG.4号出179件.6号出100件",
+        "tracking_number": "单号GZ:0008776",
+        "in_date": "2023-11-02T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "2421TSP",
+    "quantity": 75,
+    "cbm_m3": "2.871",
+    "weight": "640.00",
+    "sub_data": [
+      {
+        "name": "2421TSP",
+        "commodity": "衣柜",
+        "code_id": "2421TSP",
+        "length": 0.62,
+        "width": 0.48,
+        "height": 0.135,
+        "quantity": 60,
+        "cbm_m3": 2.411,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "韵达：250121537",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "2421TSP",
+        "commodity": "衣柜",
+        "code_id": "2421TSP",
+        "length": 0.62,
+        "width": 0.45,
+        "height": 0.11,
+        "quantity": 15,
+        "cbm_m3": 0.46,
+        "weight": 640,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "韵达：250121537",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "7272DKH",
+    "quantity": 6,
+    "cbm_m3": "1.064",
+    "weight": "173.95",
+    "sub_data": [
+      {
+        "name": "DKH",
+        "commodity": "淘宝件",
+        "code_id": "7272DKH",
+        "length": 0.7,
+        "width": 0.6,
+        "height": 0.35,
+        "quantity": 1,
+        "cbm_m3": 0.147,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​共151件",
+        "tracking_number": "",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "DKH",
+        "commodity": "淘宝件",
+        "code_id": "7272DKH",
+        "length": 0.7,
+        "width": 0.76,
+        "height": 0.35,
+        "quantity": 1,
+        "cbm_m3": 0.186,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "DKH",
+        "commodity": "淘宝件",
+        "code_id": "7272DKH",
+        "length": 0.83,
+        "width": 0.71,
+        "height": 0.3,
+        "quantity": 1,
+        "cbm_m3": 0.177,
+        "weight": 80.85,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "DKH",
+        "commodity": "淘宝件",
+        "code_id": "7272DKH",
+        "length": 0.83,
+        "width": 0.68,
+        "height": 0.35,
+        "quantity": 1,
+        "cbm_m3": 0.198,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​共125件",
+        "tracking_number": "",
+        "in_date": "2023-11-05T17:00:00.000Z"
+      },
+      {
+        "name": "DKH",
+        "commodity": "淘宝件",
+        "code_id": "7272DKH",
+        "length": 0.82,
+        "width": 0.71,
+        "height": 0.33,
+        "quantity": 1,
+        "cbm_m3": 0.192,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "",
+        "in_date": "2023-11-05T17:00:00.000Z"
+      },
+      {
+        "name": "DKH",
+        "commodity": "淘宝件",
+        "code_id": "7272DKH",
+        "length": 0.65,
+        "width": 0.72,
+        "height": 0.35,
+        "quantity": 1,
+        "cbm_m3": 0.164,
+        "weight": 93.1,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "",
+        "in_date": "2023-11-05T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "992WSD",
+    "quantity": 18,
+    "cbm_m3": "0.260",
+    "weight": "240.00",
+    "sub_data": [
+      {
+        "name": "992WSD",
+        "commodity": "滑轨",
+        "code_id": "992WSD",
+        "length": 0.33,
+        "width": 0.29,
+        "height": 0.13,
+        "quantity": 5,
+        "cbm_m3": 0.062,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "Get it better",
+        "tracking_number": "平安达：880000387863",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "992WSD",
+        "commodity": "滑轨",
+        "code_id": "992WSD",
+        "length": 0.37,
+        "width": 0.3,
+        "height": 0.12,
+        "quantity": 5,
+        "cbm_m3": 0.067,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "平安达：880000387863",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "992WSD",
+        "commodity": "滑轨",
+        "code_id": "992WSD",
+        "length": 0.41,
+        "width": 0.33,
+        "height": 0.12,
+        "quantity": 5,
+        "cbm_m3": 0.081,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "平安达：880000387863",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "992WSD",
+        "commodity": "滑轨",
+        "code_id": "992WSD",
+        "length": 0.19,
+        "width": 0.1,
+        "height": 0.1,
+        "quantity": 1,
+        "cbm_m3": 0.002,
+        "weight": 227,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "平安达：880000387863",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "992WSD",
+        "commodity": "保护膜",
+        "code_id": "992WSD",
+        "length": 0.37,
+        "width": 0.25,
+        "height": 0.2,
+        "quantity": 1,
+        "cbm_m3": 0.019,
+        "weight": 3.5,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "申通：773252853580652",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "992WSD",
+        "commodity": "胶带",
+        "code_id": "992WSD",
+        "length": 0.36,
+        "width": 0.25,
+        "height": 0.32,
+        "quantity": 1,
+        "cbm_m3": 0.029,
+        "weight": 9.5,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "中通：78739189494593",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "30060PNH",
+    "quantity": 2,
+    "cbm_m3": "0.133",
+    "weight": "11.50",
+    "sub_data": [
+      {
+        "name": "30060PNH",
+        "commodity": "收纳架",
+        "code_id": "30060PNH",
+        "length": 0.81,
+        "width": 0.43,
+        "height": 0.29,
+        "quantity": 1,
+        "cbm_m3": 0.101,
+        "weight": 10.1,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "顺丰：SF1633236102626",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "30060PNH",
+        "commodity": "收纳盒",
+        "code_id": "30060PNH",
+        "length": 0.4,
+        "width": 0.29,
+        "height": 0.28,
+        "quantity": 1,
+        "cbm_m3": 0.032,
+        "weight": 1.4,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "圆通：YT7424721717043",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "13383KMA",
+    "quantity": 2,
+    "cbm_m3": "0.045",
+    "weight": "7.00",
+    "sub_data": [
+      {
+        "name": "13383KMA",
+        "commodity": "净水器",
+        "code_id": "13383KMA",
+        "length": 0.48,
+        "width": 0.2,
+        "height": 0.2,
+        "quantity": 1,
+        "cbm_m3": 0.019,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "源之安达：100019015888",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "13383KMA",
+        "commodity": "净水器",
+        "code_id": "13383KMA",
+        "length": 0.45,
+        "width": 0.39,
+        "height": 0.15,
+        "quantity": 1,
+        "cbm_m3": 0.026,
+        "weight": 7,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "源之安达：100019015888",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "LL1549",
+    "quantity": 1,
+    "cbm_m3": "0.048",
+    "weight": "9.70",
+    "sub_data": [
+      {
+        "name": "LL1549",
+        "commodity": "电子产品",
+        "code_id": "LL1549",
+        "length": 0.5,
+        "width": 0.28,
+        "height": 0.34,
+        "quantity": 1,
+        "cbm_m3": 0.048,
+        "weight": 9.7,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "顺丰：SF1614492992885",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "26167CTL",
+    "quantity": 1,
+    "cbm_m3": "0.023",
+    "weight": "14.00",
+    "sub_data": [
+      {
+        "name": "26167CTL",
+        "commodity": "饰品",
+        "code_id": "26167CTL",
+        "length": 0.36,
+        "width": 0.26,
+        "height": 0.25,
+        "quantity": 1,
+        "cbm_m3": 0.023,
+        "weight": 14,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "顺丰：SF1449416769307",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "25798PHK",
+    "quantity": 1,
+    "cbm_m3": "0.092",
+    "weight": "6.00",
+    "sub_data": [
+      {
+        "name": "25798PHK",
+        "commodity": "椅子",
+        "code_id": "25798PHK",
+        "length": 1,
+        "width": 0.66,
+        "height": 0.14,
+        "quantity": 1,
+        "cbm_m3": 0.092,
+        "weight": 6,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "丹鸟：621078650602109",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "3927EKN",
+    "quantity": 1,
+    "cbm_m3": "0.106",
+    "weight": "13.00",
+    "sub_data": [
+      {
+        "name": "3927EKN",
+        "commodity": "绣花机",
+        "code_id": "3927EKN",
+        "length": 0.6,
+        "width": 0.44,
+        "height": 0.4,
+        "quantity": 1,
+        "cbm_m3": 0.106,
+        "weight": 13,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "顺丰：SF1684537369508",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "935LCL",
+    "quantity": 1,
+    "cbm_m3": "0.041",
+    "weight": "4.50",
+    "sub_data": [
+      {
+        "name": "935LCL",
+        "commodity": "排球",
+        "code_id": "935LCL",
+        "length": 0.5,
+        "width": 0.27,
+        "height": 0.3,
+        "quantity": 1,
+        "cbm_m3": 0.041,
+        "weight": 4.5,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "申通：773252819222923",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "24782YCH",
+    "quantity": 1,
+    "cbm_m3": "0.019",
+    "weight": "1.20",
+    "sub_data": [
+      {
+        "name": "24782YCH",
+        "commodity": "过滤网",
+        "code_id": "24782YCH",
+        "length": 0.49,
+        "width": 0.44,
+        "height": 0.09,
+        "quantity": 1,
+        "cbm_m3": 0.019,
+        "weight": 1.2,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "韵达：433533833449336",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "26247HAR",
+    "quantity": 1,
+    "cbm_m3": "0.015",
+    "weight": "2.10",
+    "sub_data": [
+      {
+        "name": "26247HAR",
+        "commodity": "清洗剂",
+        "code_id": "26247HAR",
+        "length": 0.33,
+        "width": 0.2,
+        "height": 0.23,
+        "quantity": 1,
+        "cbm_m3": 0.015,
+        "weight": 2.1,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "申通：773252880236701",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "27645THR",
+    "quantity": 1,
+    "cbm_m3": "0.046",
+    "weight": "4.00",
+    "sub_data": [
+      {
+        "name": "27645THR",
+        "commodity": "电子产品",
+        "code_id": "27645THR",
+        "length": 0.42,
+        "width": 0.39,
+        "height": 0.28,
+        "quantity": 1,
+        "cbm_m3": 0.046,
+        "weight": 4,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "申通：772023038562578",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "27120LKM",
+    "quantity": 1,
+    "cbm_m3": "0.075",
+    "weight": "6.60",
+    "sub_data": [
+      {
+        "name": "27120LKM",
+        "commodity": "收纳柜",
+        "code_id": "27120LKM",
+        "length": 0.48,
+        "width": 0.34,
+        "height": 0.46,
+        "quantity": 1,
+        "cbm_m3": 0.075,
+        "weight": 6.6,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "顺丰：SF1617892506899",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "3686USH",
+    "quantity": 1,
+    "cbm_m3": "0.083",
+    "weight": "12.00",
+    "sub_data": [
+      {
+        "name": "3686USH",
+        "commodity": "燃气灶",
+        "code_id": "3686USH",
+        "length": 0.81,
+        "width": 0.49,
+        "height": 0.21,
+        "quantity": 1,
+        "cbm_m3": 0.083,
+        "weight": 12,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "德邦：DPK300892106382",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "3947HPL",
+    "quantity": 122,
+    "cbm_m3": "6.301",
+    "weight": "1710.00",
+    "sub_data": [
+      {
+        "name": "3947HPL",
+        "commodity": "课桌椅",
+        "code_id": "3947HPL",
+        "length": 0.68,
+        "width": 0.49,
+        "height": 0.155,
+        "quantity": 122,
+        "cbm_m3": 6.301,
+        "weight": 1710,
+        "other_expense": "",
+        "remark": "有贴标贴",
+        "tracking_number": "单号GZ:0008790",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "22014RPR",
+    "quantity": 1,
+    "cbm_m3": "0.074",
+    "weight": "8.00",
+    "sub_data": [
+      {
+        "name": "22014RPR",
+        "commodity": "电器",
+        "code_id": "22014RPR",
+        "length": 0.56,
+        "width": 0.35,
+        "height": 0.38,
+        "quantity": 1,
+        "cbm_m3": 0.074,
+        "weight": 8,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "优速：910000207943",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "SR10150BC",
+    "quantity": 5,
+    "cbm_m3": "0.268",
+    "weight": "110.00",
+    "sub_data": [
+      {
+        "name": "SR10150BC",
+        "commodity": "潜水泵",
+        "code_id": "SR10150BC",
+        "length": 0.56,
+        "width": 0.36,
+        "height": 0.23,
+        "quantity": 1,
+        "cbm_m3": 0.046,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "RESUN",
+        "tracking_number": "加运美：JYM150049414867",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "SR10150BC",
+        "commodity": "潜水泵",
+        "code_id": "SR10150BC",
+        "length": 0.49,
+        "width": 0.33,
+        "height": 0.26,
+        "quantity": 1,
+        "cbm_m3": 0.042,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "加运美：JYM150049414867",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "SR10150BC",
+        "commodity": "潜水泵",
+        "code_id": "SR10150BC",
+        "length": 0.5,
+        "width": 0.4,
+        "height": 0.3,
+        "quantity": 3,
+        "cbm_m3": 0.18,
+        "weight": 110,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "加运美：JYM150049414867",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "13865PVK",
+    "quantity": 12,
+    "cbm_m3": "0.636",
+    "weight": "141.20",
+    "sub_data": [
+      {
+        "name": "13865PVK",
+        "commodity": "冰桶",
+        "code_id": "13865PVK",
+        "length": 0.42,
+        "width": 0.34,
+        "height": 0.3,
+        "quantity": 2,
+        "cbm_m3": 0.086,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "极兔：JT3052257524461.JT3052232795778.JT3052257707264",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "13865PVK",
+        "commodity": "冰桶",
+        "code_id": "13865PVK",
+        "length": 0.36,
+        "width": 0.33,
+        "height": 0.34,
+        "quantity": 1,
+        "cbm_m3": 0.04,
+        "weight": 15,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "极兔：JT3052257524461.JT3052232795778.JT3052257707264",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "13865PVK",
+        "commodity": "烤箱",
+        "code_id": "13865PVK",
+        "length": 0.58,
+        "width": 0.54,
+        "height": 0.64,
+        "quantity": 1,
+        "cbm_m3": 0.2,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "海氐 HAID",
+        "tracking_number": "德邦：DPK300892057235.DPK300891711180.DPK300892074543.DPK300892072588.DPK300892068918.DPK300892055353",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "13865PVK",
+        "commodity": "烤箱",
+        "code_id": "13865PVK",
+        "length": 0.4,
+        "width": 0.31,
+        "height": 0.28,
+        "quantity": 3,
+        "cbm_m3": 0.104,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "德邦：DPK300892057235.DPK300891711180.DPK300892074543.DPK300892072588.DPK300892068918.DPK300892055353",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "13865PVK",
+        "commodity": "烤箱",
+        "code_id": "13865PVK",
+        "length": 0.48,
+        "width": 0.34,
+        "height": 0.3,
+        "quantity": 1,
+        "cbm_m3": 0.049,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "德邦：DPK300892057235.DPK300891711180.DPK300892074543.DPK300892072588.DPK300892068918.DPK300892055353",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "13865PVK",
+        "commodity": "烤箱",
+        "code_id": "13865PVK",
+        "length": 0.49,
+        "width": 0.39,
+        "height": 0.26,
+        "quantity": 1,
+        "cbm_m3": 0.05,
+        "weight": 110,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "德邦：DPK300892057235.DPK300891711180.DPK300892074543.DPK300892072588.DPK300892068918.DPK300892055353",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "13865PVK",
+        "commodity": "垫子",
+        "code_id": "13865PVK",
+        "length": 0.42,
+        "width": 0.22,
+        "height": 0.21,
+        "quantity": 1,
+        "cbm_m3": 0.019,
+        "weight": 6.2,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "邮政：9872829842957",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "13865PVK",
+        "commodity": "置物架",
+        "code_id": "13865PVK",
+        "length": 0.64,
+        "width": 0.38,
+        "height": 0.18,
+        "quantity": 2,
+        "cbm_m3": 0.088,
+        "weight": 10,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "圆通：YT7424704013160.YT7424704088195",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "7112TSH",
+    "quantity": 1,
+    "cbm_m3": "0.023",
+    "weight": "6.00",
+    "sub_data": [
+      {
+        "name": "7112TSH",
+        "commodity": "帐篷",
+        "code_id": "7112TSH",
+        "length": 0.41,
+        "width": 0.4,
+        "height": 0.14,
+        "quantity": 1,
+        "cbm_m3": 0.023,
+        "weight": 6,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "韵达：433531292722096",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "28029ANG",
+    "quantity": 1,
+    "cbm_m3": "0.013",
+    "weight": "2.00",
+    "sub_data": [
+      {
+        "name": "28029ANG",
+        "commodity": "拖把",
+        "code_id": "28029ANG",
+        "length": 0.62,
+        "width": 0.18,
+        "height": 0.12,
+        "quantity": 1,
+        "cbm_m3": 0.013,
+        "weight": 2,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "韵达：433534181129549",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "SR10230CN",
+    "quantity": 1,
+    "cbm_m3": "0.031",
+    "weight": "3.60",
+    "sub_data": [
+      {
+        "name": "SR10230CN",
+        "commodity": "玩具",
+        "code_id": "SR10230CN",
+        "length": 0.48,
+        "width": 0.38,
+        "height": 0.17,
+        "quantity": 1,
+        "cbm_m3": 0.031,
+        "weight": 3.6,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "申通：773252636909007",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "LL1055",
+    "quantity": 1,
+    "cbm_m3": "0.019",
+    "weight": "2.10",
+    "sub_data": [
+      {
+        "name": "LL1055",
+        "commodity": "调奶器",
+        "code_id": "LL1055",
+        "length": 0.34,
+        "width": 0.2,
+        "height": 0.28,
+        "quantity": 1,
+        "cbm_m3": 0.019,
+        "weight": 2.1,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "极兔：JT2056896596697",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "3973DNN",
+    "quantity": 4,
+    "cbm_m3": "6.188",
+    "weight": "716.00",
+    "sub_data": [
+      {
+        "name": "3973DNN",
+        "commodity": "汽车座椅",
+        "code_id": "3973DNN",
+        "length": 1.4,
+        "width": 0.78,
+        "height": 1.24,
+        "quantity": 1,
+        "cbm_m3": 1.354,
+        "weight": 207,
+        "other_expense": "要叉车",
+        "remark": "​",
+        "tracking_number": "顺心：S20511745917",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "3973DNN",
+        "commodity": "汽车座椅",
+        "code_id": "3973DNN",
+        "length": 1.6,
+        "width": 0.9,
+        "height": 1.2,
+        "quantity": 2,
+        "cbm_m3": 3.456,
+        "weight": 302,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "顺心：S20511745917",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "3973DNN",
+        "commodity": "汽车座椅",
+        "code_id": "3973DNN",
+        "length": 1.4,
+        "width": 0.8,
+        "height": 1.23,
+        "quantity": 1,
+        "cbm_m3": 1.378,
+        "weight": 207,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "顺心：S20511745917",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "27001HLT",
+    "quantity": 1,
+    "cbm_m3": "1.500",
+    "weight": "180.00",
+    "sub_data": [
+      {
+        "name": "27001HLT",
+        "commodity": "吸气机器",
+        "code_id": "27001HLT",
+        "length": 1.23,
+        "width": 0.91,
+        "height": 1.34,
+        "quantity": 1,
+        "cbm_m3": 1.5,
+        "weight": 180,
+        "other_expense": "要叉车",
+        "remark": "",
+        "tracking_number": "顺心：S60788193325",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "30068NKY",
+    "quantity": 2,
+    "cbm_m3": "0.182",
+    "weight": "67.50",
+    "sub_data": [
+      {
+        "name": "30068NKY",
+        "commodity": "雨衣裤",
+        "code_id": "30068NKY",
+        "length": 0.7,
+        "width": 0.5,
+        "height": 0.26,
+        "quantity": 2,
+        "cbm_m3": 0.182,
+        "weight": 67.5,
+        "other_expense": "",
+        "remark": "鑫金鹰 XIN JIN YING ",
+        "tracking_number": "顺心：S60788424146",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "2685KH",
+    "quantity": 3,
+    "cbm_m3": "0.107",
+    "weight": "40.00",
+    "sub_data": [
+      {
+        "name": "2685KH",
+        "commodity": "货架",
+        "code_id": "2685KH",
+        "length": 3.25,
+        "width": 0.13,
+        "height": 0.05,
+        "quantity": 1,
+        "cbm_m3": 0.021,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "顺心：S20478955671",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "2685KH",
+        "commodity": "货架",
+        "code_id": "2685KH",
+        "length": 0.9,
+        "width": 0.33,
+        "height": 0.11,
+        "quantity": 1,
+        "cbm_m3": 0.033,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "顺心：S20478955671",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "2685KH",
+        "commodity": "货架",
+        "code_id": "2685KH",
+        "length": 0.92,
+        "width": 0.34,
+        "height": 0.17,
+        "quantity": 1,
+        "cbm_m3": 0.053,
+        "weight": 40,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "顺心：S20478955671",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "4203TM",
+    "quantity": 1,
+    "cbm_m3": "1.260",
+    "weight": "317.00",
+    "sub_data": [
+      {
+        "name": "4203TM",
+        "commodity": "大蒜",
+        "code_id": "4203TM",
+        "length": 1,
+        "width": 0.84,
+        "height": 1.5,
+        "quantity": 1,
+        "cbm_m3": 1.26,
+        "weight": 317,
+        "other_expense": "要叉车",
+        "remark": "",
+        "tracking_number": "顺心：S6790586764",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "220LZ",
+    "quantity": 1,
+    "cbm_m3": "0.557",
+    "weight": "103.00",
+    "sub_data": [
+      {
+        "name": "220LZ",
+        "commodity": "电动升降椅",
+        "code_id": "220LZ",
+        "length": 1.45,
+        "width": 0.61,
+        "height": 0.63,
+        "quantity": 1,
+        "cbm_m3": 0.557,
+        "weight": 103,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "壹米：107726290380",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "29898KHK",
+    "quantity": 20,
+    "cbm_m3": "9.117",
+    "weight": "2130.00",
+    "sub_data": [
+      {
+        "name": "29898KHK",
+        "commodity": "航空箱.舞台灯",
+        "code_id": "29898KHK",
+        "length": 1.09,
+        "width": 0.585,
+        "height": 0.73,
+        "quantity": 16,
+        "cbm_m3": 7.448,
+        "weight": 1690,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008794",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "29898KHK",
+        "commodity": "航空箱.舞台灯",
+        "code_id": "29898KHK",
+        "length": 1.04,
+        "width": 0.565,
+        "height": 0.71,
+        "quantity": 4,
+        "cbm_m3": 1.669,
+        "weight": 440,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008794",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "23912PAK",
+    "quantity": 1,
+    "cbm_m3": "0.118",
+    "weight": "2.95",
+    "sub_data": [
+      {
+        "name": "23912PAK",
+        "commodity": "塑料板",
+        "code_id": "23912PAK",
+        "length": 0.35,
+        "width": 0.41,
+        "height": 0.82,
+        "quantity": 1,
+        "cbm_m3": 0.118,
+        "weight": 2.95,
+        "other_expense": "",
+        "remark": "​空改陆",
+        "tracking_number": "申通：773252404575729",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "23436HGB",
+    "quantity": 1,
+    "cbm_m3": "0.077",
+    "weight": "32.00",
+    "sub_data": [
+      {
+        "name": "23436HGB",
+        "commodity": "家具板",
+        "code_id": "23436HGB",
+        "length": 1.13,
+        "width": 0.36,
+        "height": 0.19,
+        "quantity": 1,
+        "cbm_m3": 0.077,
+        "weight": 32,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "中通：300647223494",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "3298PS",
+    "quantity": 1,
+    "cbm_m3": "0.179",
+    "weight": "20.00",
+    "sub_data": [
+      {
+        "name": "3298PS",
+        "commodity": "医疗用品器械",
+        "code_id": "3298PS",
+        "length": 0.76,
+        "width": 0.59,
+        "height": 0.4,
+        "quantity": 1,
+        "cbm_m3": 0.179,
+        "weight": 20,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "顺丰：SF1425140419415",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "29192MRH",
+    "quantity": 10,
+    "cbm_m3": "0.911",
+    "weight": "90.00",
+    "sub_data": [
+      {
+        "name": "29192MRH",
+        "commodity": "椅子.边柜",
+        "code_id": "29192MRH",
+        "length": 0.22,
+        "width": 0.16,
+        "height": 0.08,
+        "quantity": 2,
+        "cbm_m3": 0.006,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "顺丰：SF1614542941803.SF1642995057753",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "29192MRH",
+        "commodity": "椅子.边柜",
+        "code_id": "29192MRH",
+        "length": 0.63,
+        "width": 0.37,
+        "height": 0.18,
+        "quantity": 2,
+        "cbm_m3": 0.084,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "顺丰：SF1614542941803.SF1642995057753",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "29192MRH",
+        "commodity": "椅子.边柜",
+        "code_id": "29192MRH",
+        "length": 0.63,
+        "width": 0.49,
+        "height": 0.48,
+        "quantity": 2,
+        "cbm_m3": 0.296,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "顺丰：SF1614542941803.SF1642995057753",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "29192MRH",
+        "commodity": "椅子.边柜",
+        "code_id": "29192MRH",
+        "length": 1.08,
+        "width": 0.51,
+        "height": 0.29,
+        "quantity": 2,
+        "cbm_m3": 0.319,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "顺丰：SF1614542941803.SF1642995057753",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "29192MRH",
+        "commodity": "椅子.边柜",
+        "code_id": "29192MRH",
+        "length": 0.51,
+        "width": 0.42,
+        "height": 0.48,
+        "quantity": 2,
+        "cbm_m3": 0.206,
+        "weight": 90,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "顺丰：SF1614542941803.SF1642995057753",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "28338NNA",
+    "quantity": 22,
+    "cbm_m3": "5.601",
+    "weight": "702.00",
+    "sub_data": [
+      {
+        "name": "28338NNA",
+        "commodity": "地毯",
+        "code_id": "28338NNA",
+        "length": 2.02,
+        "width": 0.355,
+        "height": 0.355,
+        "quantity": 22,
+        "cbm_m3": 5.601,
+        "weight": 702,
+        "other_expense": "",
+        "remark": "有贴标贴",
+        "tracking_number": "单号GZ:0008795",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "30661WWQ",
+    "quantity": 2,
+    "cbm_m3": "0.039",
+    "weight": "4.00",
+    "sub_data": [
+      {
+        "name": "30661WWQ",
+        "commodity": "食品",
+        "code_id": "30661WWQ",
+        "length": 0.37,
+        "width": 0.26,
+        "height": 0.18,
+        "quantity": 1,
+        "cbm_m3": 0.017,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "邮政：9872800350364.9872799834338",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      },
+      {
+        "name": "30661WWQ",
+        "commodity": "食品",
+        "code_id": "30661WWQ",
+        "length": 0.4,
+        "width": 0.27,
+        "height": 0.2,
+        "quantity": 1,
+        "cbm_m3": 0.022,
+        "weight": 4,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "邮政：9872800350364.9872799834338",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "28439CSC",
+    "quantity": 2,
+    "cbm_m3": "0.038",
+    "weight": "9.00",
+    "sub_data": [
+      {
+        "name": "28439CSC",
+        "commodity": "食品",
+        "code_id": "28439CSC",
+        "length": 0.38,
+        "width": 0.2,
+        "height": 0.25,
+        "quantity": 2,
+        "cbm_m3": 0.038,
+        "weight": 9,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "韵达：433535817638501.433535807002654",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "28321ANA",
+    "quantity": 1,
+    "cbm_m3": "0.016",
+    "weight": "1.00",
+    "sub_data": [
+      {
+        "name": "28321ANA",
+        "commodity": "玩具",
+        "code_id": "28321ANA",
+        "length": 0.33,
+        "width": 0.2,
+        "height": 0.24,
+        "quantity": 1,
+        "cbm_m3": 0.016,
+        "weight": 1,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "申通：773252522974919",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "3601RRS",
+    "quantity": 1,
+    "cbm_m3": "0.024",
+    "weight": "5.70",
+    "sub_data": [
+      {
+        "name": "3601RRS",
+        "commodity": "日用品",
+        "code_id": "3601RRS",
+        "length": 0.31,
+        "width": 0.31,
+        "height": 0.25,
+        "quantity": 1,
+        "cbm_m3": 0.024,
+        "weight": 5.7,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "极兔：JT0009813708842",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "27057ECN",
+    "quantity": 1,
+    "cbm_m3": "0.100",
+    "weight": "4.50",
+    "sub_data": [
+      {
+        "name": "27057ECN",
+        "commodity": "护杠",
+        "code_id": "27057ECN",
+        "length": 0.9,
+        "width": 0.27,
+        "height": 0.41,
+        "quantity": 1,
+        "cbm_m3": 0.1,
+        "weight": 4.5,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "圆通：YT7424454376463",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "22667BKT",
+    "quantity": 1,
+    "cbm_m3": "0.046",
+    "weight": "7.40",
+    "sub_data": [
+      {
+        "name": "22667BKT",
+        "commodity": "雾化器",
+        "code_id": "22667BKT",
+        "length": 0.43,
+        "width": 0.3,
+        "height": 0.36,
+        "quantity": 1,
+        "cbm_m3": 0.046,
+        "weight": 7.4,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "申通：773251036431405",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "28186CHN",
+    "quantity": 1,
+    "cbm_m3": "0.049",
+    "weight": "11.00",
+    "sub_data": [
+      {
+        "name": "28186CHN",
+        "commodity": "化妆品",
+        "code_id": "28186CHN",
+        "length": 0.46,
+        "width": 0.33,
+        "height": 0.32,
+        "quantity": 1,
+        "cbm_m3": 0.049,
+        "weight": 11,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "中通：78739137435807",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "26741NKY",
+    "quantity": 1,
+    "cbm_m3": "0.011",
+    "weight": "1.00",
+    "sub_data": [
+      {
+        "name": "26741NKY",
+        "commodity": "地垫",
+        "code_id": "26741NKY",
+        "length": 0.61,
+        "width": 0.15,
+        "height": 0.12,
+        "quantity": 1,
+        "cbm_m3": 0.011,
+        "weight": 1,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "中通：78738641126246",
+        "in_date": "2023-11-04T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "2362CJT",
+    "quantity": 10,
+    "cbm_m3": "0.315",
+    "weight": "290.00",
+    "sub_data": [
+      {
+        "name": "2362CJT",
+        "commodity": "发动机支架",
+        "code_id": "2362CJT",
+        "length": 0.36,
+        "width": 0.36,
+        "height": 0.25,
+        "quantity": 6,
+        "cbm_m3": 0.194,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008770",
+        "in_date": "2023-11-02T17:00:00.000Z"
+      },
+      {
+        "name": "2362CJT",
+        "commodity": "发动机支架",
+        "code_id": "2362CJT",
+        "length": 0.36,
+        "width": 0.34,
+        "height": 0.24,
+        "quantity": 3,
+        "cbm_m3": 0.088,
+        "weight": 0,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008770",
+        "in_date": "2023-11-02T17:00:00.000Z"
+      },
+      {
+        "name": "2362CJT",
+        "commodity": "发动机支架",
+        "code_id": "2362CJT",
+        "length": 0.38,
+        "width": 0.4,
+        "height": 0.22,
+        "quantity": 1,
+        "cbm_m3": 0.033,
+        "weight": 290,
+        "other_expense": "",
+        "remark": "​",
+        "tracking_number": "单号GZ:0008770",
+        "in_date": "2023-11-02T17:00:00.000Z"
+      }
+    ]
+  }
+]

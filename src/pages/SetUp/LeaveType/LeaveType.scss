@@ -1,0 +1,15 @@
+.ant-radio-button-wrapper-checked:not(.ant-radio-button-wrapper-disabled) {
+  color: #16a34a !important;
+  border-color: #22c55e !important;
+  background: #f0fdf4 !important;
+  box-shadow: none !important;
+}
+
+.ant-radio-button-wrapper-checked:not(.ant-radio-button-wrapper-disabled)::before {
+  background-color: #22c55e !important;
+}
+.viewLeaveType {
+  .ant-modal .ant-modal-container {
+    padding: 12px !important;
+  }
+}

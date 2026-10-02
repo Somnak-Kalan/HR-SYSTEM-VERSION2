@@ -1,0 +1,65 @@
+.customTable th {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.customTable td {
+  margin: 0 !important;
+  padding-top: 8px !important;
+  padding-bottom: 8px !important;
+}
+
+.customTable tr[aria-hidden='true'] {
+  display: none !important;
+}
+
+.dateDo {
+  margin: 0;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.dayHeader {
+  background-color: #008000 !important;
+  margin: 0;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.no_padding {
+  width: 40px;
+}
+
+.vts_code_padding {
+  width: 100px;
+}
+
+.full_name_padding {
+  width: 180px;
+}
+
+.line_padding {
+  width: 60px;
+}
+
+/* loading */
+.customTable .ant-table-tbody.loading::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(255, 255, 255, 0.7);
+  z-index: 1;
+}
+
+.customTable .ant-table-tbody.loading .spin-wrapper {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+}
+
+/* end loading */

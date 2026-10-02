@@ -1,0 +1,201 @@
+[
+  {
+    "code_id": "26167CTL",
+    "quantity": 1,
+    "cbm_m3": "0.040",
+    "weight": "0.47",
+    "sub_data": [
+      {
+        "name": "26167CTL",
+        "commodity": "饰品",
+        "code_id": "26167CTL",
+        "length": 3.5,
+        "width": 8.5,
+        "height": 9,
+        "quantity": 1,
+        "cbm_m3": 0.04,
+        "weight": 0.47,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "顺丰：SF1523302442153",
+        "in_date": "2023-11-05T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "16629KSP",
+    "quantity": 2,
+    "cbm_m3": "0.790",
+    "weight": "0.16",
+    "sub_data": [
+      {
+        "name": "16629KSP",
+        "commodity": "衣服",
+        "code_id": "16629KSP",
+        "length": 23,
+        "width": 21,
+        "height": 4,
+        "quantity": 1,
+        "cbm_m3": 0.32,
+        "weight": 0.11,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "圆通：YT7424868100911",
+        "in_date": "2023-11-05T17:00:00.000Z"
+      },
+      {
+        "name": ".16629KSP",
+        "commodity": "内衣",
+        "code_id": "16629KSP",
+        "length": 27,
+        "width": 26,
+        "height": 4,
+        "quantity": 1,
+        "cbm_m3": 0.47,
+        "weight": 0.05,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "韵达：433536820892985",
+        "in_date": "2023-11-05T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "1012SRY",
+    "quantity": 1,
+    "cbm_m3": "0.330",
+    "weight": "0.19",
+    "sub_data": [
+      {
+        "name": "1012SRY",
+        "commodity": "假发",
+        "code_id": "1012SRY",
+        "length": 26,
+        "width": 25,
+        "height": 3,
+        "quantity": 1,
+        "cbm_m3": 0.33,
+        "weight": 0.19,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "顺丰：SF6092424043863",
+        "in_date": "2023-11-05T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "2233LV",
+    "quantity": 1,
+    "cbm_m3": "0.270",
+    "weight": "0.21",
+    "sub_data": [
+      {
+        "name": "2233LV",
+        "commodity": "铁皮样品",
+        "code_id": "2233LV",
+        "length": 24.5,
+        "width": 33,
+        "height": 2,
+        "quantity": 1,
+        "cbm_m3": 0.27,
+        "weight": 0.21,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "顺丰：SF1419850584362",
+        "in_date": "2023-11-05T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "13992SMY",
+    "quantity": 1,
+    "cbm_m3": "0.530",
+    "weight": "1.74",
+    "sub_data": [
+      {
+        "name": "13992SMY",
+        "commodity": "饰品",
+        "code_id": "13992SMY",
+        "length": 19.5,
+        "width": 12,
+        "height": 13.5,
+        "quantity": 1,
+        "cbm_m3": 0.53,
+        "weight": 1.74,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "中通:78738503442616",
+        "in_date": "2023-11-05T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "2581VKH",
+    "quantity": 1,
+    "cbm_m3": "0.740",
+    "weight": "0.78",
+    "sub_data": [
+      {
+        "name": "2581VKH",
+        "commodity": "筷子",
+        "code_id": "2581VKH",
+        "length": 30,
+        "width": 21,
+        "height": 7,
+        "quantity": 1,
+        "cbm_m3": 0.74,
+        "weight": 0.78,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "极兔：JT3052275170749",
+        "in_date": "2023-11-05T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "26326GHF",
+    "quantity": 1,
+    "cbm_m3": "1.250",
+    "weight": "0.62",
+    "sub_data": [
+      {
+        "name": "26326GHF",
+        "commodity": "装饰品样品",
+        "code_id": "26326GHF",
+        "length": 26,
+        "width": 36,
+        "height": 8,
+        "quantity": 1,
+        "cbm_m3": 1.25,
+        "weight": 0.62,
+        "other_expense": "",
+        "remark": "",
+        "tracking_number": "顺丰：SF1647065029735",
+        "in_date": "2023-11-05T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "code_id": "26312CSH",
+    "quantity": 1,
+    "cbm_m3": "0.140",
+    "weight": "0.05",
+    "sub_data": [
+      {
+        "name": "26312CSH",
+        "commodity": "水笔",
+        "code_id": "26312CSH",
+        "length": 18,
+        "width": 23,
+        "height": 2,
+        "quantity": 1,
+        "cbm_m3": 0.14,
+        "weight": 0.05,
+        "other_expense": "14$",
+        "remark": "",
+        "tracking_number": "中通：78738743145223",
+        "in_date": "2023-11-05T17:00:00.000Z"
+      }
+    ]
+  }
+]
